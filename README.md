@@ -2,178 +2,13 @@
 
 ### 😄😄 <span style="color:red;">Under Construction</span>  😄😄
 
+### [🚀 Physics-Aware Generation](#physics-aware-generation)  
 ### [🚀 Physics Engine/Simulation Platforms](#physics-engine-simulation-platforms)  
 ### [🚀 Physics Simulation](#physics-simulation)  
 ### [🚀 Physics Understanding (from Videos/Observations)](#physics-understanding-from-videosobservations)  
-### [🚀 Physics-Aware Generation](#physics-aware-generation)
-### [🚀 Physics Evaluation](#physics-evaluation)
+### [🚀 Physics Evaluation](#physics-evaluation)  
 
-## Physics Engine/Simulation Platforms
-1. **Genesis: A Universal and Generative Physics Engine for Robotics and Beyond**. *Genesis Authors*, arXiv, 2024. [Homepage](https://genesis-embodied-ai.github.io/)
-
-2. **Pymunk**. *Pymunk Authors*, arXiv, 2024. [Website](https://www.pymunk.org/en/latest/showcase.html)
-
-3. **Taichi: A language for high-performance computation on spatially sparse data structures**. *Yuanming Hu, Tzu Mao Li, Luke Anderson, Jonathan Ragan-Kelley, Frédo Durand*, ACM Transactions on Graphics, 2019. [Paper](https://dl.acm.org/doi/10.1145/3355089.3356506)
-
-4. **DiffTaichi: Differentiable Programming for Physical Simulation**. *Yuanming Hu, Luke Anderson, Tzu-Mao Li, Qi Sun, Nathan Carr, Jonathan Ragan-Kelley, Frédo Durand*, arXiv, 2019. [Paper](https://arxiv.org/abs/1910.00935)
-
-5. **MuJoCo: A physics engine for model-based control**. *Emanuel Todorov, Tom Erez, Yuval Tassa*, 2012 IEEE/RSJ International Conference on Intelligent Robots and Systems, 2012. [Paper](https://ieeexplore.ieee.org/document/6386109)
-
-6. **FluidLab: A Differentiable Environment for Benchmarking Complex Fluid Manipulation**. *Zhou Xian, Bo Zhu, Zhenjia Xu, Hsiao-Yu Tung, Antonio Torralba, Katerina Fragkiadaki, Chuang Gan*, arXiv, 2023. [Paper](https://arxiv.org/abs/2303.02346)
-
-7. **SAPIEN: A SimulAted Part-based Interactive ENvironment**. *Fanbo Xiang, Yuzhe Qin, Kaichun Mo, Yikuan Xia, Hao Zhu, Fangchen Liu, Minghua Liu, Hanxiao Jiang, Yifu Yuan, He Wang, Li Yi, Angel X. Chang, Leonidas J. Guibas, Hao Su*, Proceedings of the IEEE/CVF conference on computer vision and pattern recognition (CVPR), 2020. [Paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Xiang_SAPIEN_A_SimulAted_Part-Based_Interactive_ENvironment_CVPR_2020_paper.html)
-
-8. **ThreeDWorld: A Platform for Interactive Multi-Modal Physical Simulation**. *Chuang Gan, Jeremy Schwartz, Seth Alter, Damian Mrowca, Martin Schrimpf, James Traer, Julian De Freitas, Jonas Kubilius, Abhishek Bhandwaldar, Nick Haber, Megumi Sano, Kuno Kim, Elias Wang, Michael Lingelbach, Aidan Curtis, Kevin Feigelis, Daniel M. Bear, Dan Gutfreund, David Cox, Antonio Torralba, James J. DiCarlo, Joshua B. Tenenbaum, Josh H. McDermott, Daniel L. K. Yamins*, arXiv, 2020. [Paper](https://arxiv.org/abs/2007.04954)
-
-9. **UBSoft: A Simulation Platform for Robotic Skill Learning in Unbounded Soft Environments**. *Chunru Lin, Jugang Fan, Yian Wang, Zeyuan Yang, Zhehuan Chen, Lixing Fang, Tsun-Hsuan Wang, Zhou Xian, Chuang Gan*, arXiv, 2024. [Paper](https://arxiv.org/abs/2411.12711)
-
-10. **Isaac Gym: High Performance GPU-Based Physics Simulation For Robot Learning**. *Viktor Makoviychuk, Lukasz Wawrzyniak, Yunrong Guo, Michelle Lu, Kier Storey, Miles Macklin, David Hoeller, Nikita Rudin, Arthur Allshire, Ankur Handa, Gavriel State*, arXiv, 2021. [Paper](https://arxiv.org/abs/2108.10470)
-
-11. **PR2: A Physics- and Photo-realistic Testbed for Embodied AI and Humanoid Robots**. *Hangxin Liu, Qi Xie, Zeyu Zhang, Tao Yuan, Xiaokun Leng, Lining Sun, Song-Chun Zhu, Jingwen Zhang, Zhicheng He, Yao Su*, arXiv, 2024. [Paper](https://arxiv.org/abs/2409.01559)
-
-12. **PyBullet**. *PyBullet Authors*, arXiv, 2024. [Website](https://pybullet.org/wordpress/)
- 
-13. **Nvidia PhysX**. *Nvidia PhysX Authors*, arXiv, 2024. [Website](https://developer.%20nvidia.com/physx-sdk)
-
-14. **Open Dynamics Engine**. *Russ Smith*, arXiv, 2024. [Website](https://www.ode.org/)
-
-15. **Chrono: An open source multi-physics dynamics engine**. *Alessandro Tasora, Radu Serban, Hammad Mazhar, Arman Pazouki, Daniel Melanz, Jonathan Fleischmann, Michael Taylor, Hiroyuki Sugiyama, Dan Negrut*, High Performance Computing in Science and Engineering, 2015. [Paper](https://link.springer.com/chapter/10.1007/978-3-319-40361-8_2)
-
-16. **Unity: A General Platform for Intelligent Agents**. *Arthur Juliani, Vincent-Pierre Berges, Ervin Teng, Andrew Cohen, Jonathan Harper, Chris Elion, Chris Goy, Yuan Gao, Hunter Henry, Marwan Mattar, Danny Lange*, arXiv, 2018. [Paper](https://arxiv.org/abs/1809.02627)
-
-17. **Brax -- A Differentiable Physics Engine for Large Scale Rigid Body Simulation**. *C. Daniel Freeman, Erik Frey, Anton Raichuk, Sertan Girgin, Igor Mordatch, Olivier Bachem*, arXiv, 2021. [Paper](https://arxiv.org/abs/2106.13281)
-
-18. **Design and use paradigms for gazebo, an open-source multi-robot simulator**. *N. Koenig, A. Howard*, 2004 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) (IEEE Cat. No.04CH37566), 2004. [Paper](https://ieeexplore.ieee.org/document/1389727)
-
-19. **WebotsTM: Professional Mobile Robot Simulation**. *Olivier Michel*, arXiv, 2004. [Paper](https://arxiv.org/pdf/cs/0412052)
-
-20. **XPBD: Position-based simulation of compliant constrained dynamics**. *Miles Macklin, Matthias Müller, Nuttapong Chentanez*, Proceedings - Motion in Games 2016: 9th International Conference on Motion in Games, MIG 2016, 2016. [Paper](https://dl.acm.org/doi/10.1145/2994258.2994272)
-
-## Physics Simulation
-1. **Genesis: A Universal and Generative Physics Engine for Robotics and Beyond**. *Genesis Authors*, arXiv, 2024. [Homepage](https://genesis-embodied-ai.github.io/)
-
-2. **Pymunk**. *Pymunk Authors*, arXiv, 2024. [Website](https://www.pymunk.org/en/latest/showcase.html)
-
-3. **Taichi: A language for high-performance computation on spatially sparse data structures**. *Yuanming Hu, Tzu Mao Li, Luke Anderson, Jonathan Ragan-Kelley, Frédo Durand*, ACM Transactions on Graphics, 2019. [Paper](https://dl.acm.org/doi/10.1145/3355089.3356506)
-
-4. **DiffTaichi: Differentiable Programming for Physical Simulation**. *Yuanming Hu, Luke Anderson, Tzu-Mao Li, Qi Sun, Nathan Carr, Jonathan Ragan-Kelley, Frédo Durand*, arXiv, 2019. [Paper](https://arxiv.org/abs/1910.00935)
-
-5. **ThreeDWorld: A Platform for Interactive Multi-Modal Physical Simulation**. *Chuang Gan, Jeremy Schwartz, Seth Alter, Damian Mrowca, Martin Schrimpf, James Traer, Julian De Freitas, Jonas Kubilius, Abhishek Bhandwaldar, Nick Haber, Megumi Sano, Kuno Kim, Elias Wang, Michael Lingelbach, Aidan Curtis, Kevin Feigelis, Daniel M. Bear, Dan Gutfreund, David Cox, Antonio Torralba, James J. DiCarlo, Joshua B. Tenenbaum, Josh H. McDermott, Daniel L. K. Yamins*, arXiv, 2020. [Paper](https://arxiv.org/abs/2007.04954)
-
-6. **UBSoft: A Simulation Platform for Robotic Skill Learning in Unbounded Soft Environments**. *Chunru Lin, Jugang Fan, Yian Wang, Zeyuan Yang, Zhehuan Chen, Lixing Fang, Tsun-Hsuan Wang, Zhou Xian, Chuang Gan*, arXiv, 2024. [Paper](https://arxiv.org/abs/2411.12711)
-
-7. **Efficient Generation of Multimodal Fluid Simulation Data**. *Daniele Baieri, Donato Crisostomi, Stefano Esposito, Filippo Maggioli, Emanuele Rodolà*, arXiv, 2023.[Paper](https://arxiv.org/abs/2311.06284)
-
-8. **Learning to Simulate Complex Physics with Graph Networks**. *Alvaro Sanchez-Gonzalez, Jonathan Godwin, Tobias Pfaff, Rex Ying, Jure Leskovec, Peter W. Battaglia*, International Conference on Machine Learning (ICML), 2020. [Paper](https://arxiv.org/abs/2002.09405)
-
-9. **Complex Locomotion Skill Learning via Differentiable Physics**. *Yu Fang, Jiancheng Liu, Mingrui Zhang, Jiasheng Zhang, Yidong Ma, Minchen Li, Yuanming Hu, Chenfanfu Jiang, Tiantian Liu*, arXiv, 2022. [Paper](https://arxiv.org/abs/2206.02341)
-
-10. **Differentiable Simulation of Soft Multi-body Systems**. *Yi-Ling Qiao, Junbang Liang, Vladlen Koltun, Ming C. Lin*, Advances in Neural Information Processing Systems (NeurIPS), 2021. [GitHub](https://github.com/YilingQiao/diff_fem)
-
-11. **DiffPD: Differentiable Projective Dynamics**. *Tao Du, Kui Wu, Pingchuan Ma, Sebastien Wah, Andrew Spielberg, Daniela Rus, Wojciech Matusik*, ACM Transactions on Graphics, 2022. [Paper](https://dl.acm.org/doi/10.1145/3490168)
-
-12. **PlasticineLab: A Soft-Body Manipulation Benchmark with Differentiable Physics**. *Zhiao Huang, Yuanming Hu, Tao Du, Siyuan Zhou, Hao Su, Joshua B. Tenenbaum, Chuang Gan*, International Conference on Learning Representations (ICLR), 2021. [Paper](https://arxiv.org/abs/2104.03311)
-
-13. **Graph networks as learnable physics engines for inference and control**. *Alvaro Sanchez-Gonzalez, Nicolas Heess, Jost Tobias Springenberg, Josh Merel, Martin Riedmiller, Raia Hadsell, Peter Battaglia*, International Conference on Machine Learning (ICML), 2018. [Paper](https://proceedings.mlr.press/v80/sanchez-gonzalez18a.html)
-
-14. **Differentiable Simulation of Soft Multi-body Systems**. *Yi-Ling Qiao, Junbang Liang, Vladlen Koltun, Ming C. Lin*, Advances in Neural Information Processing Systems (NeurIPS), 2021. [Paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/8e296a067a37563370ded05f5a3bf3ec-Abstract.html)
-
-15. **DIFFTACTILE: A Physics-based Differentiable Tactile Simulator for Contact-rich Robotic Manipulation**. *Zilin Si, Gu Zhang, Qingwei Ben, Branden Romero, Zhou Xian, Chao Liu, Chuang Gan*, arXiv, 2024. [Paper](https://arxiv.org/abs/2403.08716)
-
-16. **Efficient Differentiable Simulation of Articulated Bodies**. *Yi-Ling Qiao, Junbang Liang, Vladlen Koltun, Ming C. Lin*, International Conference on Machine Learning (ICML), 2021. [Paper](https://proceedings.mlr.press/v139/qiao21a.html)
-
-17. **Interpretable Intuitive Physics Model**. *Tian Ye, Xiaolong Wang, James Davidson, Abhinav Gupta*, Proceedings of the European Conference on Computer Vision (ECCV), 2018. [Paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Tian_Ye_Interpretable_Intuitive_Physics_ECCV_2018_paper.pdf)
-
-18. **Learning to Identify Physical Parameters from Video Using Differentiable Physics**. *Rama Krishna Kandukuri, Jan Achterhold, Michael Möller, Jörg Stückler*, arXiv, 2020. [Paper](https://arxiv.org/abs/2009.08292)
-
-19. **Scalable Differentiable Physics for Learning and Control**. *Yi-Ling Qiao, Junbang Liang, Vladlen Koltun, Ming C. Lin*, arXiv, 2020. [Paper](https://arxiv.org/abs/2007.02168)
-
-20. **InfiniteWorld: A Unified Scalable Simulation Framework for General Visual-Language Robot Interaction**. *Pengzhen Ren, Min Li, Zhen Luo, Xinshuai Song, Ziwei Chen, Weijia Liufu, Yixuan Yang, Hao Zheng, Rongtao Xu, Zitong Huang, Tongsheng Ding, Luyang Xie, Kaidong Zhang, Changfei Fu, Yang Liu, Liang Lin, Feng Zheng, Xiaodan Liang*, arXiv, 2024. [Paper](https://arxiv.org/abs/2412.05789)
-
-21. **DiffXPBD : Differentiable Position-Based Simulation of Compliant Constraint Dynamics**. *Tuur Stuyck, Hsiao-yu Chen*, arXiv, 2023. [Paper](https://arxiv.org/abs/2301.01396)
-
-22. **Unified simulation of elastic rods, shells, and solids**. *Sebastian Martin, Peter Kaufmann, Mario Botsch, Eitan Grinspun, Markus Gross*, ACM SIGGRAPH 2010 Papers, SIGGRAPH 2010, 2010. [Paper](https://dl.acm.org/doi/10.1145/1833349.1778776)
-
-## Physics Understanding (from Videos/Observations)
-1. **Learning to Simulate Complex Physics with Graph Networks**. *Alvaro Sanchez-Gonzalez, Jonathan Godwin, Tobias Pfaff, Rex Ying, Jure Leskovec, Peter W. Battaglia*, International Conference on Machine Learning (ICML), 2020. [Paper](https://arxiv.org/abs/2002.09405)
-
-2. **Graph networks as learnable physics engines for inference and control**. *Alvaro Sanchez-Gonzalez, Nicolas Heess, Jost Tobias Springenberg, Josh Merel, Martin Riedmiller, Raia Hadsell, Peter Battaglia*, International Conference on Machine Learning (ICML), 2018. [Paper](https://proceedings.mlr.press/v80/sanchez-gonzalez18a.html)
-
-3. **Interpretable Intuitive Physics Model**. *Tian Ye, Xiaolong Wang, James Davidson, Abhinav Gupta*, Proceedings of the European Conference on Computer Vision (ECCV), 2018. [Paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Tian_Ye_Interpretable_Intuitive_Physics_ECCV_2018_paper.pdf)
-
-4. **Reconstruction and Simulation of Elastic Objects with Spring-Mass 3D Gaussians**. *Licheng Zhong, Hong-Xing Yu, Jiajun Wu, Yunzhu Li*, European Conference on Computer Vision (ECCV), 2024. [GitHub](https://github.com/Colmar-zlicheng/Spring-Gaus)
-
-5. **GIC: Gaussian-Informed Continuum for Physical Property Identification and Simulation**. *Junhao Cai, Yuji Yang, Weihao Yuan, Yisheng He, Zilong Dong, Liefeng Bo, Hui Cheng, Qifeng Chen*, Advances in Neural Information Processing Systems (NeurIPS), 2024. [GitHub](https://jukgei.github.io/project/gic/)
-
-6. **Gaussian Garments: Reconstructing Simulation-Ready Clothing with Photorealistic Appearance from Multi-View Video**. *Boxiang Rong, Artur Grigorev, Wenbo Wang, Michael J. Black, Bernhard Thomaszewski, Christina Tsalicoglou, Otmar Hilliges*, arXiv, 2024. [Paper](https://arxiv.org/abs/2409.08189)
-
-7. **PIE-NeRF: Physics-based Interactive Elastodynamics with NeRF**. *Yutao Feng, Yintong Shang, Xuan Li, Tianjia Shao, Chenfanfu Jiang, Yin Yang*, Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024. [GitHub](https://github.com/FYTalon/pienerf)
-
-8. **ElastoGen: 4D Generative Elastodynamics**. *Yutao Feng, Yintong Shang, Xiang Feng, Lei Lan, Shandian Zhe, Tianjia Shao, Hongzhi Wu, Kun Zhou, Hao Su, Chenfanfu Jiang, Yin Yang*, arXiv, 2024. [GitHub](https://anunrulybunny.github.io/elastogen/)
-
-9. **NVFi: Neural Velocity Fields for 3D Physics Learning from Dynamic Videos**. *Jinxi Li, Ziyang Song, Bo Yang*, Advances in Neural Information Processing Systems (NeurIPS), 2023. [Paper](https://arxiv.org/abs/2312.06398)
-
-10. **Inferring Hybrid Neural Fluid Fields from Videos**. *Hong-Xing Yu, Yang Zheng, Yuan Gao, Yitong Deng, Bo Zhu, Jiajun Wu*, Advances in Neural Information Processing Systems (NeurIPS), 2023. [Paper](https://arxiv.org/abs/2312.06561)
-
-11. **NeuroFluid: Fluid Dynamics Grounding with Particle-Driven Neural Radiance Fields**. *Shanyan Guan, Huayu Deng, Yunbo Wang, Xiaokang Yang*, International Conference on Machine Learning (ICML), 2022. [Paper](https://arxiv.org/abs/2203.01762)
-
-12. **Virtual Elastic Objects**. *Hsiao-yu Chen, Edgar Tretschk, Tuur Stuyck, Petr Kadlecek, Ladislav Kavan, Etienne Vouga, Christoph Lassner*, arXiv, 2022. [Paper](https://arxiv.org/abs/2201.04623)
-
-13. **gradSim: Differentiable simulation for system identification and visuomotor control**. *Krishna Murthy Jatavallabhula, Miles Macklin, Florian Golemo, Vikram Voleti, Linda Petrini, Martin Weiss, Breandan Considine, Jerome Parent-Levesque, Kevin Xie, Kenny Erleben, Liam Paull, Florian Shkurti, Derek Nowrouzezahrai, Sanja Fidler*, International Conference on Learning Representations (ICLR), 2021. [Paper](https://arxiv.org/abs/2104.02646)
-
-14. **One-Shot Real-to-Sim via End-to-End Differentiable Simulation and Rendering**. *Yifan Zhu, Tianyi Xiang, Aaron Dollar, Zherong Pan*, arXiv, 2024. [Paper](https://arxiv.org/abs/2412.00259)
-
-15. **Physical Property Understanding from Language-Embedded Feature Fields**. *Albert J. Zhai, Yuan Shen, Emily Y. Chen, Gloria X. Wang, Xinlei Wang, Sheng Wang, Kaiyu Guan, Shenlong Wang*, Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024. [Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhai_Physical_Property_Understanding_from_Language-Embedded_Feature_Fields_CVPR_2024_paper.pdf)
-
-16. **GeoWizard: Unleashing the Diffusion Priors for 3D Geometry Estimation from a Single Image**. *Xiao Fu, Wei Yin, Mu Hu, Kaixuan Wang, Yuexin Ma, Ping Tan, Shaojie Shen, Dahua Lin, Xiaoxiao Long*, arXiv, 2024. [GitHub](https://fuxiao0719.github.io/projects/geowizard/)
-
-17. **DensePhysNet: Learning Dense Physical Object Representations via Multi-step Dynamic Interactions**. *Zhenjia Xu, Jiajun Wu, Andy Zeng, Joshua B. Tenenbaum, Shuran Song*, arXiv, 2019. [Paper](https://arxiv.org/abs/1906.03853)
-
-18. **Visual Grounding of Learned Physical Models**. *Yunzhu Li, Toru Lin, Kexin Yi, Daniel M. Bear, Daniel L. K. Yamins, Jiajun Wu, Joshua B. Tenenbaum, Antonio Torralba*, International Conference on Machine Learning (ICML), 2020. [GitHub](https://github.com/YunzhuLi/VGPL)
-
-19. **Learning Particle Dynamics for Manipulating Rigid Bodies, Deformable Objects, and Fluids**. *Yunzhu Li, Jiajun Wu, Russ Tedrake, Joshua B. Tenenbaum, Antonio Torralba*, arXiv, 2018. [Paper](https://arxiv.org/abs/1810.01566)
-
-20. **Physics 101: Learning Physical Object Properties from Unlabeled Videos**. *Jiajun Wu, Joseph J Lim, Hongyi Zhang, Joshua B Tenenbaum, William T Freeman*, British Machine Vision Conference (BMVC), 2016. [Paper](https://pure.kaist.ac.kr/en/publications/physics-101-learning-physical-object-properties-from-unlabeled-vi)
-
-21. **Interaction Networks for Learning about Objects, Relations and Physics**. *Peter W. Battaglia, Razvan Pascanu, Matthew Lai, Danilo Rezende, Koray Kavukcuoglu*, Advances in Neural Information Processing Systems (NeurIPS), 2016. [Paper](https://papers.nips.cc/paper_files/paper/2016/hash/3147da8ab4a0437c15ef51a5cc7f2dc4-Abstract.html)
-
-22. **Visual Vibrometry: Estimating Material Properties from Small Motions in Video**. *Abe Davis, Katherine L. Bouman, Justin G. Chen, Michael Rubinstein, Oral Büyüköztürk, Frédo Durand, William T. Freeman*, IEEE Transactions on Pattern Analysis and Machine Intelligence, 2017. [Paper](https://dspace.mit.edu/handle/1721.1/97532)
-
-23. **Disentangling Physical Dynamics from Unknown Factors for Unsupervised Video Prediction**. *Vincent Le Guen, Nicolas Thome*, Proceedings of the IEEE/CVF conference on computer vision and pattern recognition (CVPR), 2020. [Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Le_Guen_Disentangling_Physical_Dynamics_From_Unknown_Factors_for_Unsupervised_Video_Prediction_CVPR_2020_paper.pdf)
-
-24. **Dynamic Visual Reasoning by Learning Differentiable Physics Models from Video and Language**. *Mingyu Ding, Zhenfang Chen, Tao Du, Ping Luo, Joshua B. Tenenbaum, Chuang Gan*, Advances In Neural Information Processing Systems (NeurIPS), 2021. [GitHub](https://github.com/dingmyu/VRDP)
-
-25. **Flexible Neural Representation for Physics Prediction**. *Damian Mrowca, Chengxu Zhuang, Elias Wang, Nick Haber, Li Fei-Fei, Joshua B Tenenbaum, Daniel L K Yamins*, Advances in Neural Information Processing Systems (NeurIPS), 2018. [Paper](https://papers.nips.cc/paper_files/paper/2018/hash/fd9dd764a6f1d73f4340d570804eacc4-Abstract.html)
-
-26. **Galileo: Perceiving Physical Object Properties by Integrating a Physics Engine with Deep Learning**. *Jiajun Wu, Ilker Yildirim, Joseph J Lim, William T Freeman, Joshua B Tenenbaum Bcs*, Advances in Neural Information Processing Systems (NeurIPS), 2015.
- [Paper](https://papers.nips.cc/paper_files/paper/2015/hash/d09bf41544a3365a46c9077ebb5e35c3-Abstract.html)
-
-27. **GASP: Gaussian Splatting for Physic-Based Simulations**. *Piotr Borycki, Weronika Smolak, Joanna Waczyńska, Marcin Mazur, Sławomir Tadeja, Przemysław Spurek*, arXiv, 2024. [Paper](https://arxiv.org/abs/2409.05819)
-
-28. **IntPhys 2019: A Benchmark for Visual Intuitive Physics Understanding**. *Ronan Riochet, Mario Ynocente Castro, Mathieu Bernard, Adam Lerer, Rob Fergus, Veronique Izard, Emmanuel Dupoux*, IEEE Transactions on Pattern Analysis and Machine Intelligence, 2022. [Paper](https://pubmed.ncbi.nlm.nih.gov/34038357/)
-
-29. **Learned Neural Physics Simulation for Articulated 3D Human Pose Reconstruction**. *Mykhaylo Andriluka, Baruch Tabanpour, C. Daniel Freeman, Cristian Sminchisescu*, European Conference on Computer Vision (ECCV), 2024. [Paper](https://dl.acm.org/doi/10.1007/978-3-031-72907-2_19)
-
-30. **Learning to See Physics via Visual De-animation**. *Jiajun Wu, Erika Lu, Pushmeet Kohli, William T Freeman, Joshua B Tenenbaum*, Advances in Neural Information Processing Systems (NeurIPS), 2017. [Paper](https://papers.nips.cc/paper_files/paper/2017/hash/4c56ff4ce4aaf9573aa5dff913df997a-Abstract.html)
-
-31. **NeuPhysics: Editable Neural Geometry and Physics from Monocular Videos**. *Yi-Ling Qiao, Alexander Gao, Ming C Lin*, Advances in Neural Information Processing Systems, 2022. [Paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/53d3f45797970d323bd8a0d379c525aa-Paper-Conference.pdf)
-
-32. **Neural Material Adaptor for Visual Grounding of Intrinsic Dynamics**. *Junyi Cao, Shanyan Guan, Yanhao Ge, Wei Li, Xiaokang Yang, Chao Ma*, arXiv, 2024. [Paper](https://arxiv.org/abs/2410.08257)
-
-33. **Physical Representation Learning and Parameter Identification from Video Using Differentiable Physics**. *Rama Krishna Kandukuri, Jan Achterhold, Michael Moeller, Joerg Stueckler*, International Journal of Computer Vision, 2022. [Paper](https://link.springer.com/article/10.1007/s11263-021-01493-5)
-
-34. **Physics-as-Inverse-Graphics: Unsupervised Physical Parameter Estimation from Video**. *Miguel Jaques, Michael Burke, Timothy Hospedales*, arXiv, 2019. [Paper](https://arxiv.org/abs/1905.11169)
-
-35. **Unsupervised Learning for Physical Interaction through Video Prediction**. *Chelsea Finn, Ian Goodfellow Openai, Sergey Levine, Google Brain*, Advances in Neural Information Processing Systems (NeurIPS), 2016. [Paper](https://proceedings.neurips.cc/paper_files/paper/2016/file/d9d4f495e875a2e075a1a4a6e1b9770f-Paper.pdf)
-
-36. **Visual Interaction Networks: Learning a Physics Simulator from Video**. *Nicholas Watters, Andrea Tacchetti, Théophane Weber, Razvan Pascanu, Peter Battaglia, Daniel Zoran*, Advances in Neural Information Processing Systems (NeurIPS), 2017. [Paper](https://papers.nips.cc/paper_files/paper/2017/hash/8cbd005a556ccd4211ce43f309bc0eac-Abstract.html)
-
-37. **Visual Physics: Discovering Physical Laws from Videos**. *Pradyumna Chari, Chinmay Talegaonkar, Yunhao Ba, Achuta Kadambi*, arXiv, 2019. [Paper](https://arxiv.org/abs/1911.11893)
-
-38. **Learning to Identify Physical Parameters from Video Using Differentiable Physics**. *Rama Krishna Kandukuri, Jan Achterhold, Michael Möller, Jörg Stückler*, arXiv, 2020. [Paper](https://arxiv.org/abs/2009.08292)
-
-39. **Scalable Differentiable Physics for Learning and Control**. *Yi-Ling Qiao, Junbang Liang, Vladlen Koltun, Ming C. Lin*, arXiv, 2020. [Paper](https://arxiv.org/abs/2007.02168)
-
+---
 
 ## Physics-Aware Generation
 1. **Visual Grounding of Learned Physical Models**. *Yunzhu Li, Toru Lin, Kexin Yi, Daniel M. Bear, Daniel L. K. Yamins, Jiajun Wu, Joshua B. Tenenbaum, Antonio Torralba*, International Conference on Machine Learning (ICML), 2020. [GitHub](https://github.com/YunzhuLi/VGPL)
@@ -364,7 +199,177 @@
 
 94. **Generating Physically Realistic and Directable Human Motions from Multi-Modal Inputs**. *Aayam Shrestha, Pan Liu, German Ros, Kai Yuan, Alan Fern*, European Conference on Computer Vision (ECCV), 2024. [Homepage](https://idigitopia.github.io/projects/mhc/)
 
-## Physics Evaluation ##
+
+## Physics Engine/ Simulation Platforms
+1. **Genesis: A Universal and Generative Physics Engine for Robotics and Beyond**. *Genesis Authors*, arXiv, 2024. [Homepage](https://genesis-embodied-ai.github.io/)
+
+2. **Pymunk**. *Pymunk Authors*, arXiv, 2024. [Website](https://www.pymunk.org/en/latest/showcase.html)
+
+3. **Taichi: A language for high-performance computation on spatially sparse data structures**. *Yuanming Hu, Tzu Mao Li, Luke Anderson, Jonathan Ragan-Kelley, Frédo Durand*, ACM Transactions on Graphics, 2019. [Paper](https://dl.acm.org/doi/10.1145/3355089.3356506)
+
+4. **DiffTaichi: Differentiable Programming for Physical Simulation**. *Yuanming Hu, Luke Anderson, Tzu-Mao Li, Qi Sun, Nathan Carr, Jonathan Ragan-Kelley, Frédo Durand*, arXiv, 2019. [Paper](https://arxiv.org/abs/1910.00935)
+
+5. **MuJoCo: A physics engine for model-based control**. *Emanuel Todorov, Tom Erez, Yuval Tassa*, 2012 IEEE/RSJ International Conference on Intelligent Robots and Systems, 2012. [Paper](https://ieeexplore.ieee.org/document/6386109)
+
+6. **FluidLab: A Differentiable Environment for Benchmarking Complex Fluid Manipulation**. *Zhou Xian, Bo Zhu, Zhenjia Xu, Hsiao-Yu Tung, Antonio Torralba, Katerina Fragkiadaki, Chuang Gan*, arXiv, 2023. [Paper](https://arxiv.org/abs/2303.02346)
+
+7. **SAPIEN: A SimulAted Part-based Interactive ENvironment**. *Fanbo Xiang, Yuzhe Qin, Kaichun Mo, Yikuan Xia, Hao Zhu, Fangchen Liu, Minghua Liu, Hanxiao Jiang, Yifu Yuan, He Wang, Li Yi, Angel X. Chang, Leonidas J. Guibas, Hao Su*, Proceedings of the IEEE/CVF conference on computer vision and pattern recognition (CVPR), 2020. [Paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Xiang_SAPIEN_A_SimulAted_Part-Based_Interactive_ENvironment_CVPR_2020_paper.html)
+
+8. **ThreeDWorld: A Platform for Interactive Multi-Modal Physical Simulation**. *Chuang Gan, Jeremy Schwartz, Seth Alter, Damian Mrowca, Martin Schrimpf, James Traer, Julian De Freitas, Jonas Kubilius, Abhishek Bhandwaldar, Nick Haber, Megumi Sano, Kuno Kim, Elias Wang, Michael Lingelbach, Aidan Curtis, Kevin Feigelis, Daniel M. Bear, Dan Gutfreund, David Cox, Antonio Torralba, James J. DiCarlo, Joshua B. Tenenbaum, Josh H. McDermott, Daniel L. K. Yamins*, arXiv, 2020. [Paper](https://arxiv.org/abs/2007.04954)
+
+9. **UBSoft: A Simulation Platform for Robotic Skill Learning in Unbounded Soft Environments**. *Chunru Lin, Jugang Fan, Yian Wang, Zeyuan Yang, Zhehuan Chen, Lixing Fang, Tsun-Hsuan Wang, Zhou Xian, Chuang Gan*, arXiv, 2024. [Paper](https://arxiv.org/abs/2411.12711)
+
+10. **Isaac Gym: High Performance GPU-Based Physics Simulation For Robot Learning**. *Viktor Makoviychuk, Lukasz Wawrzyniak, Yunrong Guo, Michelle Lu, Kier Storey, Miles Macklin, David Hoeller, Nikita Rudin, Arthur Allshire, Ankur Handa, Gavriel State*, arXiv, 2021. [Paper](https://arxiv.org/abs/2108.10470)
+
+11. **PR2: A Physics- and Photo-realistic Testbed for Embodied AI and Humanoid Robots**. *Hangxin Liu, Qi Xie, Zeyu Zhang, Tao Yuan, Xiaokun Leng, Lining Sun, Song-Chun Zhu, Jingwen Zhang, Zhicheng He, Yao Su*, arXiv, 2024. [Paper](https://arxiv.org/abs/2409.01559)
+
+12. **PyBullet**. *PyBullet Authors*, arXiv, 2024. [Website](https://pybullet.org/wordpress/)
+ 
+13. **Nvidia PhysX**. *Nvidia PhysX Authors*, arXiv, 2024. [Website](https://developer.%20nvidia.com/physx-sdk)
+
+14. **Open Dynamics Engine**. *Russ Smith*, arXiv, 2024. [Website](https://www.ode.org/)
+
+15. **Chrono: An open source multi-physics dynamics engine**. *Alessandro Tasora, Radu Serban, Hammad Mazhar, Arman Pazouki, Daniel Melanz, Jonathan Fleischmann, Michael Taylor, Hiroyuki Sugiyama, Dan Negrut*, High Performance Computing in Science and Engineering, 2015. [Paper](https://link.springer.com/chapter/10.1007/978-3-319-40361-8_2)
+
+16. **Unity: A General Platform for Intelligent Agents**. *Arthur Juliani, Vincent-Pierre Berges, Ervin Teng, Andrew Cohen, Jonathan Harper, Chris Elion, Chris Goy, Yuan Gao, Hunter Henry, Marwan Mattar, Danny Lange*, arXiv, 2018. [Paper](https://arxiv.org/abs/1809.02627)
+
+17. **Brax -- A Differentiable Physics Engine for Large Scale Rigid Body Simulation**. *C. Daniel Freeman, Erik Frey, Anton Raichuk, Sertan Girgin, Igor Mordatch, Olivier Bachem*, arXiv, 2021. [Paper](https://arxiv.org/abs/2106.13281)
+
+18. **Design and use paradigms for gazebo, an open-source multi-robot simulator**. *N. Koenig, A. Howard*, 2004 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) (IEEE Cat. No.04CH37566), 2004. [Paper](https://ieeexplore.ieee.org/document/1389727)
+
+19. **WebotsTM: Professional Mobile Robot Simulation**. *Olivier Michel*, arXiv, 2004. [Paper](https://arxiv.org/pdf/cs/0412052)
+
+20. **XPBD: Position-based simulation of compliant constrained dynamics**. *Miles Macklin, Matthias Müller, Nuttapong Chentanez*, Proceedings - Motion in Games 2016: 9th International Conference on Motion in Games, MIG 2016, 2016. [Paper](https://dl.acm.org/doi/10.1145/2994258.2994272)
+
+
+## Physics Simulation
+1. **Genesis: A Universal and Generative Physics Engine for Robotics and Beyond**. *Genesis Authors*, arXiv, 2024. [Homepage](https://genesis-embodied-ai.github.io/)
+
+2. **Pymunk**. *Pymunk Authors*, arXiv, 2024. [Website](https://www.pymunk.org/en/latest/showcase.html)
+
+3. **Taichi: A language for high-performance computation on spatially sparse data structures**. *Yuanming Hu, Tzu Mao Li, Luke Anderson, Jonathan Ragan-Kelley, Frédo Durand*, ACM Transactions on Graphics, 2019. [Paper](https://dl.acm.org/doi/10.1145/3355089.3356506)
+
+4. **DiffTaichi: Differentiable Programming for Physical Simulation**. *Yuanming Hu, Luke Anderson, Tzu-Mao Li, Qi Sun, Nathan Carr, Jonathan Ragan-Kelley, Frédo Durand*, arXiv, 2019. [Paper](https://arxiv.org/abs/1910.00935)
+
+5. **ThreeDWorld: A Platform for Interactive Multi-Modal Physical Simulation**. *Chuang Gan, Jeremy Schwartz, Seth Alter, Damian Mrowca, Martin Schrimpf, James Traer, Julian De Freitas, Jonas Kubilius, Abhishek Bhandwaldar, Nick Haber, Megumi Sano, Kuno Kim, Elias Wang, Michael Lingelbach, Aidan Curtis, Kevin Feigelis, Daniel M. Bear, Dan Gutfreund, David Cox, Antonio Torralba, James J. DiCarlo, Joshua B. Tenenbaum, Josh H. McDermott, Daniel L. K. Yamins*, arXiv, 2020. [Paper](https://arxiv.org/abs/2007.04954)
+
+6. **UBSoft: A Simulation Platform for Robotic Skill Learning in Unbounded Soft Environments**. *Chunru Lin, Jugang Fan, Yian Wang, Zeyuan Yang, Zhehuan Chen, Lixing Fang, Tsun-Hsuan Wang, Zhou Xian, Chuang Gan*, arXiv, 2024. [Paper](https://arxiv.org/abs/2411.12711)
+
+7. **Efficient Generation of Multimodal Fluid Simulation Data**. *Daniele Baieri, Donato Crisostomi, Stefano Esposito, Filippo Maggioli, Emanuele Rodolà*, arXiv, 2023.[Paper](https://arxiv.org/abs/2311.06284)
+
+8. **Learning to Simulate Complex Physics with Graph Networks**. *Alvaro Sanchez-Gonzalez, Jonathan Godwin, Tobias Pfaff, Rex Ying, Jure Leskovec, Peter W. Battaglia*, International Conference on Machine Learning (ICML), 2020. [Paper](https://arxiv.org/abs/2002.09405)
+
+9. **Complex Locomotion Skill Learning via Differentiable Physics**. *Yu Fang, Jiancheng Liu, Mingrui Zhang, Jiasheng Zhang, Yidong Ma, Minchen Li, Yuanming Hu, Chenfanfu Jiang, Tiantian Liu*, arXiv, 2022. [Paper](https://arxiv.org/abs/2206.02341)
+
+10. **Differentiable Simulation of Soft Multi-body Systems**. *Yi-Ling Qiao, Junbang Liang, Vladlen Koltun, Ming C. Lin*, Advances in Neural Information Processing Systems (NeurIPS), 2021. [GitHub](https://github.com/YilingQiao/diff_fem)
+
+11. **DiffPD: Differentiable Projective Dynamics**. *Tao Du, Kui Wu, Pingchuan Ma, Sebastien Wah, Andrew Spielberg, Daniela Rus, Wojciech Matusik*, ACM Transactions on Graphics, 2022. [Paper](https://dl.acm.org/doi/10.1145/3490168)
+
+12. **PlasticineLab: A Soft-Body Manipulation Benchmark with Differentiable Physics**. *Zhiao Huang, Yuanming Hu, Tao Du, Siyuan Zhou, Hao Su, Joshua B. Tenenbaum, Chuang Gan*, International Conference on Learning Representations (ICLR), 2021. [Paper](https://arxiv.org/abs/2104.03311)
+
+13. **Graph networks as learnable physics engines for inference and control**. *Alvaro Sanchez-Gonzalez, Nicolas Heess, Jost Tobias Springenberg, Josh Merel, Martin Riedmiller, Raia Hadsell, Peter Battaglia*, International Conference on Machine Learning (ICML), 2018. [Paper](https://proceedings.mlr.press/v80/sanchez-gonzalez18a.html)
+
+14. **Differentiable Simulation of Soft Multi-body Systems**. *Yi-Ling Qiao, Junbang Liang, Vladlen Koltun, Ming C. Lin*, Advances in Neural Information Processing Systems (NeurIPS), 2021. [Paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/8e296a067a37563370ded05f5a3bf3ec-Abstract.html)
+
+15. **DIFFTACTILE: A Physics-based Differentiable Tactile Simulator for Contact-rich Robotic Manipulation**. *Zilin Si, Gu Zhang, Qingwei Ben, Branden Romero, Zhou Xian, Chao Liu, Chuang Gan*, arXiv, 2024. [Paper](https://arxiv.org/abs/2403.08716)
+
+16. **Efficient Differentiable Simulation of Articulated Bodies**. *Yi-Ling Qiao, Junbang Liang, Vladlen Koltun, Ming C. Lin*, International Conference on Machine Learning (ICML), 2021. [Paper](https://proceedings.mlr.press/v139/qiao21a.html)
+
+17. **Interpretable Intuitive Physics Model**. *Tian Ye, Xiaolong Wang, James Davidson, Abhinav Gupta*, Proceedings of the European Conference on Computer Vision (ECCV), 2018. [Paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Tian_Ye_Interpretable_Intuitive_Physics_ECCV_2018_paper.pdf)
+
+18. **Learning to Identify Physical Parameters from Video Using Differentiable Physics**. *Rama Krishna Kandukuri, Jan Achterhold, Michael Möller, Jörg Stückler*, arXiv, 2020. [Paper](https://arxiv.org/abs/2009.08292)
+
+19. **Scalable Differentiable Physics for Learning and Control**. *Yi-Ling Qiao, Junbang Liang, Vladlen Koltun, Ming C. Lin*, arXiv, 2020. [Paper](https://arxiv.org/abs/2007.02168)
+
+20. **InfiniteWorld: A Unified Scalable Simulation Framework for General Visual-Language Robot Interaction**. *Pengzhen Ren, Min Li, Zhen Luo, Xinshuai Song, Ziwei Chen, Weijia Liufu, Yixuan Yang, Hao Zheng, Rongtao Xu, Zitong Huang, Tongsheng Ding, Luyang Xie, Kaidong Zhang, Changfei Fu, Yang Liu, Liang Lin, Feng Zheng, Xiaodan Liang*, arXiv, 2024. [Paper](https://arxiv.org/abs/2412.05789)
+
+21. **DiffXPBD : Differentiable Position-Based Simulation of Compliant Constraint Dynamics**. *Tuur Stuyck, Hsiao-yu Chen*, arXiv, 2023. [Paper](https://arxiv.org/abs/2301.01396)
+
+22. **Unified simulation of elastic rods, shells, and solids**. *Sebastian Martin, Peter Kaufmann, Mario Botsch, Eitan Grinspun, Markus Gross*, ACM SIGGRAPH 2010 Papers, SIGGRAPH 2010, 2010. [Paper](https://dl.acm.org/doi/10.1145/1833349.1778776)
+
+
+## Physics Understanding (from Videos/Observations)
+1. **Learning to Simulate Complex Physics with Graph Networks**. *Alvaro Sanchez-Gonzalez, Jonathan Godwin, Tobias Pfaff, Rex Ying, Jure Leskovec, Peter W. Battaglia*, International Conference on Machine Learning (ICML), 2020. [Paper](https://arxiv.org/abs/2002.09405)
+
+2. **Graph networks as learnable physics engines for inference and control**. *Alvaro Sanchez-Gonzalez, Nicolas Heess, Jost Tobias Springenberg, Josh Merel, Martin Riedmiller, Raia Hadsell, Peter Battaglia*, International Conference on Machine Learning (ICML), 2018. [Paper](https://proceedings.mlr.press/v80/sanchez-gonzalez18a.html)
+
+3. **Interpretable Intuitive Physics Model**. *Tian Ye, Xiaolong Wang, James Davidson, Abhinav Gupta*, Proceedings of the European Conference on Computer Vision (ECCV), 2018. [Paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Tian_Ye_Interpretable_Intuitive_Physics_ECCV_2018_paper.pdf)
+
+4. **Reconstruction and Simulation of Elastic Objects with Spring-Mass 3D Gaussians**. *Licheng Zhong, Hong-Xing Yu, Jiajun Wu, Yunzhu Li*, European Conference on Computer Vision (ECCV), 2024. [GitHub](https://github.com/Colmar-zlicheng/Spring-Gaus)
+
+5. **GIC: Gaussian-Informed Continuum for Physical Property Identification and Simulation**. *Junhao Cai, Yuji Yang, Weihao Yuan, Yisheng He, Zilong Dong, Liefeng Bo, Hui Cheng, Qifeng Chen*, Advances in Neural Information Processing Systems (NeurIPS), 2024. [GitHub](https://jukgei.github.io/project/gic/)
+
+6. **Gaussian Garments: Reconstructing Simulation-Ready Clothing with Photorealistic Appearance from Multi-View Video**. *Boxiang Rong, Artur Grigorev, Wenbo Wang, Michael J. Black, Bernhard Thomaszewski, Christina Tsalicoglou, Otmar Hilliges*, arXiv, 2024. [Paper](https://arxiv.org/abs/2409.08189)
+
+7. **PIE-NeRF: Physics-based Interactive Elastodynamics with NeRF**. *Yutao Feng, Yintong Shang, Xuan Li, Tianjia Shao, Chenfanfu Jiang, Yin Yang*, Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024. [GitHub](https://github.com/FYTalon/pienerf)
+
+8. **ElastoGen: 4D Generative Elastodynamics**. *Yutao Feng, Yintong Shang, Xiang Feng, Lei Lan, Shandian Zhe, Tianjia Shao, Hongzhi Wu, Kun Zhou, Hao Su, Chenfanfu Jiang, Yin Yang*, arXiv, 2024. [GitHub](https://anunrulybunny.github.io/elastogen/)
+
+9. **NVFi: Neural Velocity Fields for 3D Physics Learning from Dynamic Videos**. *Jinxi Li, Ziyang Song, Bo Yang*, Advances in Neural Information Processing Systems (NeurIPS), 2023. [Paper](https://arxiv.org/abs/2312.06398)
+
+10. **Inferring Hybrid Neural Fluid Fields from Videos**. *Hong-Xing Yu, Yang Zheng, Yuan Gao, Yitong Deng, Bo Zhu, Jiajun Wu*, Advances in Neural Information Processing Systems (NeurIPS), 2023. [Paper](https://arxiv.org/abs/2312.06561)
+
+11. **NeuroFluid: Fluid Dynamics Grounding with Particle-Driven Neural Radiance Fields**. *Shanyan Guan, Huayu Deng, Yunbo Wang, Xiaokang Yang*, International Conference on Machine Learning (ICML), 2022. [Paper](https://arxiv.org/abs/2203.01762)
+
+12. **Virtual Elastic Objects**. *Hsiao-yu Chen, Edgar Tretschk, Tuur Stuyck, Petr Kadlecek, Ladislav Kavan, Etienne Vouga, Christoph Lassner*, arXiv, 2022. [Paper](https://arxiv.org/abs/2201.04623)
+
+13. **gradSim: Differentiable simulation for system identification and visuomotor control**. *Krishna Murthy Jatavallabhula, Miles Macklin, Florian Golemo, Vikram Voleti, Linda Petrini, Martin Weiss, Breandan Considine, Jerome Parent-Levesque, Kevin Xie, Kenny Erleben, Liam Paull, Florian Shkurti, Derek Nowrouzezahrai, Sanja Fidler*, International Conference on Learning Representations (ICLR), 2021. [Paper](https://arxiv.org/abs/2104.02646)
+
+14. **One-Shot Real-to-Sim via End-to-End Differentiable Simulation and Rendering**. *Yifan Zhu, Tianyi Xiang, Aaron Dollar, Zherong Pan*, arXiv, 2024. [Paper](https://arxiv.org/abs/2412.00259)
+
+15. **Physical Property Understanding from Language-Embedded Feature Fields**. *Albert J. Zhai, Yuan Shen, Emily Y. Chen, Gloria X. Wang, Xinlei Wang, Sheng Wang, Kaiyu Guan, Shenlong Wang*, Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024. [Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhai_Physical_Property_Understanding_from_Language-Embedded_Feature_Fields_CVPR_2024_paper.pdf)
+
+16. **GeoWizard: Unleashing the Diffusion Priors for 3D Geometry Estimation from a Single Image**. *Xiao Fu, Wei Yin, Mu Hu, Kaixuan Wang, Yuexin Ma, Ping Tan, Shaojie Shen, Dahua Lin, Xiaoxiao Long*, arXiv, 2024. [GitHub](https://fuxiao0719.github.io/projects/geowizard/)
+
+17. **DensePhysNet: Learning Dense Physical Object Representations via Multi-step Dynamic Interactions**. *Zhenjia Xu, Jiajun Wu, Andy Zeng, Joshua B. Tenenbaum, Shuran Song*, arXiv, 2019. [Paper](https://arxiv.org/abs/1906.03853)
+
+18. **Visual Grounding of Learned Physical Models**. *Yunzhu Li, Toru Lin, Kexin Yi, Daniel M. Bear, Daniel L. K. Yamins, Jiajun Wu, Joshua B. Tenenbaum, Antonio Torralba*, International Conference on Machine Learning (ICML), 2020. [GitHub](https://github.com/YunzhuLi/VGPL)
+
+19. **Learning Particle Dynamics for Manipulating Rigid Bodies, Deformable Objects, and Fluids**. *Yunzhu Li, Jiajun Wu, Russ Tedrake, Joshua B. Tenenbaum, Antonio Torralba*, arXiv, 2018. [Paper](https://arxiv.org/abs/1810.01566)
+
+20. **Physics 101: Learning Physical Object Properties from Unlabeled Videos**. *Jiajun Wu, Joseph J Lim, Hongyi Zhang, Joshua B Tenenbaum, William T Freeman*, British Machine Vision Conference (BMVC), 2016. [Paper](https://pure.kaist.ac.kr/en/publications/physics-101-learning-physical-object-properties-from-unlabeled-vi)
+
+21. **Interaction Networks for Learning about Objects, Relations and Physics**. *Peter W. Battaglia, Razvan Pascanu, Matthew Lai, Danilo Rezende, Koray Kavukcuoglu*, Advances in Neural Information Processing Systems (NeurIPS), 2016. [Paper](https://papers.nips.cc/paper_files/paper/2016/hash/3147da8ab4a0437c15ef51a5cc7f2dc4-Abstract.html)
+
+22. **Visual Vibrometry: Estimating Material Properties from Small Motions in Video**. *Abe Davis, Katherine L. Bouman, Justin G. Chen, Michael Rubinstein, Oral Büyüköztürk, Frédo Durand, William T. Freeman*, IEEE Transactions on Pattern Analysis and Machine Intelligence, 2017. [Paper](https://dspace.mit.edu/handle/1721.1/97532)
+
+23. **Disentangling Physical Dynamics from Unknown Factors for Unsupervised Video Prediction**. *Vincent Le Guen, Nicolas Thome*, Proceedings of the IEEE/CVF conference on computer vision and pattern recognition (CVPR), 2020. [Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Le_Guen_Disentangling_Physical_Dynamics_From_Unknown_Factors_for_Unsupervised_Video_Prediction_CVPR_2020_paper.pdf)
+
+24. **Dynamic Visual Reasoning by Learning Differentiable Physics Models from Video and Language**. *Mingyu Ding, Zhenfang Chen, Tao Du, Ping Luo, Joshua B. Tenenbaum, Chuang Gan*, Advances In Neural Information Processing Systems (NeurIPS), 2021. [GitHub](https://github.com/dingmyu/VRDP)
+
+25. **Flexible Neural Representation for Physics Prediction**. *Damian Mrowca, Chengxu Zhuang, Elias Wang, Nick Haber, Li Fei-Fei, Joshua B Tenenbaum, Daniel L K Yamins*, Advances in Neural Information Processing Systems (NeurIPS), 2018. [Paper](https://papers.nips.cc/paper_files/paper/2018/hash/fd9dd764a6f1d73f4340d570804eacc4-Abstract.html)
+
+26. **Galileo: Perceiving Physical Object Properties by Integrating a Physics Engine with Deep Learning**. *Jiajun Wu, Ilker Yildirim, Joseph J Lim, William T Freeman, Joshua B Tenenbaum Bcs*, Advances in Neural Information Processing Systems (NeurIPS), 2015.
+ [Paper](https://papers.nips.cc/paper_files/paper/2015/hash/d09bf41544a3365a46c9077ebb5e35c3-Abstract.html)
+
+27. **GASP: Gaussian Splatting for Physic-Based Simulations**. *Piotr Borycki, Weronika Smolak, Joanna Waczyńska, Marcin Mazur, Sławomir Tadeja, Przemysław Spurek*, arXiv, 2024. [Paper](https://arxiv.org/abs/2409.05819)
+
+28. **IntPhys 2019: A Benchmark for Visual Intuitive Physics Understanding**. *Ronan Riochet, Mario Ynocente Castro, Mathieu Bernard, Adam Lerer, Rob Fergus, Veronique Izard, Emmanuel Dupoux*, IEEE Transactions on Pattern Analysis and Machine Intelligence, 2022. [Paper](https://pubmed.ncbi.nlm.nih.gov/34038357/)
+
+29. **Learned Neural Physics Simulation for Articulated 3D Human Pose Reconstruction**. *Mykhaylo Andriluka, Baruch Tabanpour, C. Daniel Freeman, Cristian Sminchisescu*, European Conference on Computer Vision (ECCV), 2024. [Paper](https://dl.acm.org/doi/10.1007/978-3-031-72907-2_19)
+
+30. **Learning to See Physics via Visual De-animation**. *Jiajun Wu, Erika Lu, Pushmeet Kohli, William T Freeman, Joshua B Tenenbaum*, Advances in Neural Information Processing Systems (NeurIPS), 2017. [Paper](https://papers.nips.cc/paper_files/paper/2017/hash/4c56ff4ce4aaf9573aa5dff913df997a-Abstract.html)
+
+31. **NeuPhysics: Editable Neural Geometry and Physics from Monocular Videos**. *Yi-Ling Qiao, Alexander Gao, Ming C Lin*, Advances in Neural Information Processing Systems, 2022. [Paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/53d3f45797970d323bd8a0d379c525aa-Paper-Conference.pdf)
+
+32. **Neural Material Adaptor for Visual Grounding of Intrinsic Dynamics**. *Junyi Cao, Shanyan Guan, Yanhao Ge, Wei Li, Xiaokang Yang, Chao Ma*, arXiv, 2024. [Paper](https://arxiv.org/abs/2410.08257)
+
+33. **Physical Representation Learning and Parameter Identification from Video Using Differentiable Physics**. *Rama Krishna Kandukuri, Jan Achterhold, Michael Moeller, Joerg Stueckler*, International Journal of Computer Vision, 2022. [Paper](https://link.springer.com/article/10.1007/s11263-021-01493-5)
+
+34. **Physics-as-Inverse-Graphics: Unsupervised Physical Parameter Estimation from Video**. *Miguel Jaques, Michael Burke, Timothy Hospedales*, arXiv, 2019. [Paper](https://arxiv.org/abs/1905.11169)
+
+35. **Unsupervised Learning for Physical Interaction through Video Prediction**. *Chelsea Finn, Ian Goodfellow Openai, Sergey Levine, Google Brain*, Advances in Neural Information Processing Systems (NeurIPS), 2016. [Paper](https://proceedings.neurips.cc/paper_files/paper/2016/file/d9d4f495e875a2e075a1a4a6e1b9770f-Paper.pdf)
+
+36. **Visual Interaction Networks: Learning a Physics Simulator from Video**. *Nicholas Watters, Andrea Tacchetti, Théophane Weber, Razvan Pascanu, Peter Battaglia, Daniel Zoran*, Advances in Neural Information Processing Systems (NeurIPS), 2017. [Paper](https://papers.nips.cc/paper_files/paper/2017/hash/8cbd005a556ccd4211ce43f309bc0eac-Abstract.html)
+
+37. **Visual Physics: Discovering Physical Laws from Videos**. *Pradyumna Chari, Chinmay Talegaonkar, Yunhao Ba, Achuta Kadambi*, arXiv, 2019. [Paper](https://arxiv.org/abs/1911.11893)
+
+38. **Learning to Identify Physical Parameters from Video Using Differentiable Physics**. *Rama Krishna Kandukuri, Jan Achterhold, Michael Möller, Jörg Stückler*, arXiv, 2020. [Paper](https://arxiv.org/abs/2009.08292)
+
+39. **Scalable Differentiable Physics for Learning and Control**. *Yi-Ling Qiao, Junbang Liang, Vladlen Koltun, Ming C. Lin*, arXiv, 2020. [Paper](https://arxiv.org/abs/2007.02168)
+
+
+## Physics Evaluation
 1. **Towards World Simulator: Crafting Physical Commonsense-Based Benchmark for Video Generation**. *Fanqing Meng, Jiaqi Liao, Xinyu Tan, Wenqi Shao, Quanfeng Lu, Kaipeng Zhang, Yu Cheng, Dianqi Li, Yu Qiao, Ping Luo*, arXiv, 2024. [GitHub](https://github.com/OpenGVLab/PhyGenBench)
 
 2. **GAIA: Rethinking Action Quality Assessment for AI-Generated Videos**. *Zijian Chen, Wei Sun, Yuan Tian, Jun Jia, Zicheng Zhang, Jiarui Wang, Ru Huang, Xiongkuo Min, Guangtao Zhai, Wenjun Zhang*, arXiv, 2024. [GitHub](https://github.com/zijianchen98/GAIA)
