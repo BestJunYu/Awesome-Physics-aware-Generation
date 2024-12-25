@@ -2,8 +2,13 @@
 
 ### 😄😄 <span style="color:red;">Under Construction</span>  😄😄
 
+### [🚀 Physics Engine/Simulation Platforms](#physics-engine-simulation-platforms)  
+### [🚀 Physics Simulation](#physics-simulation)  
+### [🚀 Physics Understanding (from Videos/Observations)](#physics-understanding-from-videosobservations)  
+### [🚀 Physics-Aware Generation](#physics-aware-generation)
+### [🚀 Physics Evaluation](#physics-evaluation)
 
-## Physics Engine/Simulation Platforms ##
+## Physics Engine/Simulation Platforms
 1. **Genesis: A Universal and Generative Physics Engine for Robotics and Beyond**. *Genesis Authors*, arXiv, 2024. [Homepage](https://genesis-embodied-ai.github.io/)
 
 2. **Pymunk**. *Pymunk Authors*, arXiv, 2024. [Website](https://www.pymunk.org/en/latest/showcase.html)
@@ -44,7 +49,7 @@
 
 20. **XPBD: Position-based simulation of compliant constrained dynamics**. *Miles Macklin, Matthias Müller, Nuttapong Chentanez*, Proceedings - Motion in Games 2016: 9th International Conference on Motion in Games, MIG 2016, 2016. [Paper](https://dl.acm.org/doi/10.1145/2994258.2994272)
 
-## Physics Simulation ##
+## Physics Simulation
 1. **Genesis: A Universal and Generative Physics Engine for Robotics and Beyond**. *Genesis Authors*, arXiv, 2024. [Homepage](https://genesis-embodied-ai.github.io/)
 
 2. **Pymunk**. *Pymunk Authors*, arXiv, 2024. [Website](https://www.pymunk.org/en/latest/showcase.html)
@@ -89,7 +94,7 @@
 
 22. **Unified simulation of elastic rods, shells, and solids**. *Sebastian Martin, Peter Kaufmann, Mario Botsch, Eitan Grinspun, Markus Gross*, ACM SIGGRAPH 2010 Papers, SIGGRAPH 2010, 2010. [Paper](https://dl.acm.org/doi/10.1145/1833349.1778776)
 
-## Physics Understanding (from Videos/Observations) ##
+## Physics Understanding (from Videos/Observations)
 1. **Learning to Simulate Complex Physics with Graph Networks**. *Alvaro Sanchez-Gonzalez, Jonathan Godwin, Tobias Pfaff, Rex Ying, Jure Leskovec, Peter W. Battaglia*, International Conference on Machine Learning (ICML), 2020. [Paper](https://arxiv.org/abs/2002.09405)
 
 2. **Graph networks as learnable physics engines for inference and control**. *Alvaro Sanchez-Gonzalez, Nicolas Heess, Jost Tobias Springenberg, Josh Merel, Martin Riedmiller, Raia Hadsell, Peter Battaglia*, International Conference on Machine Learning (ICML), 2018. [Paper](https://proceedings.mlr.press/v80/sanchez-gonzalez18a.html)
@@ -170,7 +175,7 @@
 39. **Scalable Differentiable Physics for Learning and Control**. *Yi-Ling Qiao, Junbang Liang, Vladlen Koltun, Ming C. Lin*, arXiv, 2020. [Paper](https://arxiv.org/abs/2007.02168)
 
 
-## Physics-Aware Generation ##
+## Physics-Aware Generation
 1. **Visual Grounding of Learned Physical Models**. *Yunzhu Li, Toru Lin, Kexin Yi, Daniel M. Bear, Daniel L. K. Yamins, Jiajun Wu, Joshua B. Tenenbaum, Antonio Torralba*, International Conference on Machine Learning (ICML), 2020. [GitHub](https://github.com/YunzhuLi/VGPL)
 
 2. **GASP: Gaussian Splatting for Physic-Based Simulations**. *Piotr Borycki, Weronika Smolak, Joanna Waczyńska, Marcin Mazur, Sławomir Tadeja, Przemysław Spurek*, arXiv, 2024. [Paper](https://arxiv.org/abs/2409.05819)
@@ -358,7 +363,6 @@
 93. **Towards Physically Stable Motion Generation: A New Paradigm of Human Pose Representation**. *Qiongjie Cui, Zhenyu Lou, Zhenbo Song, Xiangbo Shu*, IEEE Transactions on Circuits and Systems for Video Technology, 2024. [Paper](https://www.researchgate.net/publication/387101678_Towards_Physically_Stable_Motion_Generation_A_New_Paradigm_of_Human_Pose_Representation)
 
 94. **Generating Physically Realistic and Directable Human Motions from Multi-Modal Inputs**. *Aayam Shrestha, Pan Liu, German Ros, Kai Yuan, Alan Fern*, European Conference on Computer Vision (ECCV), 2024. [Homepage](https://idigitopia.github.io/projects/mhc/)
-
 
 ## Physics Evaluation ##
 1. **Towards World Simulator: Crafting Physical Commonsense-Based Benchmark for Video Generation**. *Fanqing Meng, Jiaqi Liao, Xinyu Tan, Wenqi Shao, Quanfeng Lu, Kaipeng Zhang, Yu Cheng, Dianqi Li, Yu Qiao, Ping Luo*, arXiv, 2024. [GitHub](https://github.com/OpenGVLab/PhyGenBench)
