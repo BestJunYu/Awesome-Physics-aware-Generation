@@ -243,7 +243,7 @@
 
 
 ## Physics Simulation
-1. **Genesis: A Universal and Generative Physics Engine for Robotics and Beyond**. *Genesis Authors*, arXiv, 2024. [Homepage](https://genesis-embodied-ai.github.io/)
+1. **Genesis: A Generative and Universal Physics Engine for Robotics and Beyond**. *Genesis Authors*, arXiv, 2024. [Homepage](https://genesis-embodied-ai.github.io/)
 
 2. **Pymunk**. *Pymunk Authors*, arXiv, 2024. [Website](https://www.pymunk.org/en/latest/showcase.html)
 
