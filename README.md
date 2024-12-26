@@ -23,7 +23,7 @@
 
 6. **Physically Compatible 3D Object Modeling from a Single Image**. *Minghao Guo, Bohan Wang, Pingchuan Ma, Tianyuan Zhang, Crystal Elaine Owens, Chuang Gan, Joshua B. Tenenbaum, Kaiming He, Wojciech Matusik*, arXiv, 2024. [Paper](https://arxiv.org/abs/2405.20510)
 
-7. **Feature Splatting: Language-Driven Physics-Based Scene Synthesis and Editing**. *Ri-Zhao Qiu, Ge Yang, Weijia Zeng, Xiaolong Wang*, arXiv, 2024. [Paper]()
+7. **Feature Splatting: Language-Driven Physics-Based Scene Synthesis and Editing**. *Ri-Zhao Qiu, Ge Yang, Weijia Zeng, Xiaolong Wang*, arXiv, 2024. [Paper](https://arxiv.org/abs/2404.01223)
 
 8. **Dream to Manipulate: Compositional World Models Empowering Robot Imitation Learning with Imagination**. *Leonardo Barcellona, Andrii Zadaianchuk, Davide Allegro, Samuele Papa, Stefano Ghidoni, Efstratios Gavves*, arXiv, 2024. [Paper](https://arxiv.org/abs/2412.14957)
 
@@ -67,7 +67,7 @@
 
 28. **3D-VLA: A 3D Vision-Language-Action Generative World Model**. *Haoyu Zhen, Xiaowen Qiu, Peihao Chen, Jincheng Yang, Xin Yan, Yilun Du, Yining Hong, Chuang Gan*, arXiv, 2024. [GitHub](https://github.com/UMass-Foundation-Model/3D-VLA)
 
-29. **AC3D: Analyzing and Improving 3D Camera Control in Video Diffusion Transformers**. *Sherwin Bahmani, Ivan Skorokhodov, Guocheng Qian, Aliaksandr Siarohin, Willi Menapace, Andrea Tagliasacchi, David B. Lindell, Sergey Tulyakov*, arXiv, 2024. [Homepage](https://snap-research.github.io/vd3d/gallery.html)
+29. **AC3D: Analyzing and Improving 3D Camera Control in Video Diffusion Transformers**. *Sherwin Bahmani, Ivan Skorokhodov, Guocheng Qian, Aliaksandr Siarohin, Willi Menapace, Andrea Tagliasacchi, David B. Lindell, Sergey Tulyakov*, arXiv, 2024. [Homepage](https://snap-research.github.io/ac3d/)
 
 30. **Atlas3D: Physically Constrained Self-Supporting Text-to-3D for Simulation and Fabrication**. *Yunuo Chen, Tianyi Xie, Zeshun Zong, Xuan Li, Feng Gao, Yin Yang, Ying Nian Wu, Chenfanfu Jiang*, arXiv, 2024. [Paper](https://arxiv.org/abs/2405.18515)
 
@@ -145,7 +145,7 @@
 
 67. **Radiative Gaussian Splatting for Efficient X-ray Novel View Synthesis**. *Yuanhao Cai, Yixun Liang, Jiahao Wang, Angtian Wang, Yulun Zhang, Xiaokang Yang, Zongwei Zhou, Alan Yuille*, arXiv, 2024. [GitHub](https://github.com/caiyuanhao1998/X-Gaussian)
 
-68. **RoboGen: Towards Unleashing Infinite Data for Automated Robot Learning via Generative Simulation**. *Yufei Wang, Zhou Xian, Feng Chen, Tsun-Hsuan Wang, Yian Wang, Katerina Fragkiadaki, Zackory Erickson, David Held, Chuang Gan*, arXiv, 2023. [Paper]()
+68. **RoboGen: Towards Unleashing Infinite Data for Automated Robot Learning via Generative Simulation**. *Yufei Wang, Zhou Xian, Feng Chen, Tsun-Hsuan Wang, Yian Wang, Katerina Fragkiadaki, Zackory Erickson, David Held, Chuang Gan*, arXiv, 2023. [GitHub](https://github.com/Genesis-Embodied-AI/RoboGen)
 
 69. **Scaling In-the-Wild Training for Diffusion-based Illumination Harmonization and Editing by Imposing Consistent Light Transport**. *Unknown*, International Conference on Learning Representations (ICLR), 2025. [GitHub](https://github.com/lllyasviel/IC-Light)
 
@@ -201,7 +201,7 @@
 
 
 ## Physics Engine/ Simulation Platforms
-1. **Genesis: A Universal and Generative Physics Engine for Robotics and Beyond**. *Genesis Authors*, arXiv, 2024. [Homepage](https://genesis-embodied-ai.github.io/)
+1. **Genesis: A Generative and Universal Physics Engine for Robotics and Beyond**. *Genesis Authors*, arXiv, 2024. [Homepage](https://genesis-embodied-ai.github.io/)
 
 2. **Pymunk**. *Pymunk Authors*, arXiv, 2024. [Website](https://www.pymunk.org/en/latest/showcase.html)
 
@@ -225,7 +225,7 @@
 
 12. **PyBullet**. *PyBullet Authors*, arXiv, 2024. [Website](https://pybullet.org/wordpress/)
  
-13. **Nvidia PhysX**. *Nvidia PhysX Authors*, arXiv, 2024. [Website](https://developer.%20nvidia.com/physx-sdk)
+13. **Nvidia PhysX**. *Nvidia PhysX Authors*, arXiv, 2024. [GitHub](https://github.com/NVIDIA-Omniverse/PhysX)
 
 14. **Open Dynamics Engine**. *Russ Smith*, arXiv, 2024. [Website](https://www.ode.org/)
 
