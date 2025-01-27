@@ -199,6 +199,8 @@
 
 94. **Generating Physically Realistic and Directable Human Motions from Multi-Modal Inputs**. *Aayam Shrestha, Pan Liu, German Ros, Kai Yuan, Alan Fern*, European Conference on Computer Vision (ECCV), 2024. [Homepage](https://idigitopia.github.io/projects/mhc/)
 
+95. **MagicTime: Time-lapse Video Generation Models as Metamorphic Simulators**. *Shenghai Yuan\*, Jinfa Huang\*, Yujun Shi, Yongqi Xu, Ruijie Zhu, Bin Lin, Xinhua Cheng, Li Yuan, Jiebo Luo*, arXiv, 2024. [Homepage](https://pku-yuangroup.github.io/MagicTime/) [Paper](https://arxiv.org/abs/2404.05014) [Code](https://github.com/PKU-YuanGroup/MagicTime)
+
 
 ## Physics Engine/ Simulation Platforms
 1. **Genesis: A Generative and Universal Physics Engine for Robotics and Beyond**. *Genesis Authors*, arXiv, 2024. [Homepage](https://genesis-embodied-ai.github.io/)
@@ -399,3 +401,5 @@
 14. **PhyBench: A Physical Commonsense Benchmark for Evaluating Text-to-Image Models**. *Fanqing Meng, Wenqi Shao, Lixin Luo, Yahong Wang, Yiran Chen, Quanfeng Lu, Yue Yang, Tianshuo Yang, Kaipeng Zhang, Yu Qiao, Ping Luo*, arXiv, 2024. [Paper](https://arxiv.org/abs/2406.11802)
 
 15. **T2I-FactualBench: Benchmarking the Factuality of Text-to-Image Models with Knowledge-Intensive Concepts**. *Ziwei Huang, Wanggui He, Quanyu Long, Yandi Wang, Haoyuan Li, Zhelun Yu, Fangxun Shu, Long Chan, Hao Jiang, Leilei Gan, Fei Wu*, arXiv, 2024. [Paper](https://arxiv.org/abs/2412.04300)
+
+16. **ChronoMagic-Bench: A Benchmark for Metamorphic Evaluation of Text-to-Time-lapse Video Generation**. *Shenghai Yuan, Jinfa Huang, Yongqi Xu, Yaoyang Liu, Shaofeng Zhang, Yujun Shi, Ruijie Zhu, Xinhua Cheng, Jiebo Luo, Li Yuan*, NeurIPS D&B Spotlight, 2024. [Paper](https://arxiv.org/abs/2406.18522) [Github](https://github.com/PKU-YuanGroup/ChronoMagic-Bench) [Homepage](https://pku-yuangroup.github.io/ChronoMagic-Bench/)
