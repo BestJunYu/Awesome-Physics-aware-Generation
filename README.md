@@ -11,53 +11,25 @@
 ---
 
 ## Physics-Aware Generation
-1. **Visual Grounding of Learned Physical Models**. *Yunzhu Li, Toru Lin, Kexin Yi, Daniel M. Bear, Daniel L. K. Yamins, Jiajun Wu, Joshua B. Tenenbaum, Antonio Torralba*, International Conference on Machine Learning (ICML), 2020. [GitHub](https://github.com/YunzhuLi/VGPL)
 
-2. **GASP: Gaussian Splatting for Physic-Based Simulations**. *Piotr Borycki, Weronika Smolak, Joanna Waczyńska, Marcin Mazur, Sławomir Tadeja, Przemysław Spurek*, arXiv, 2024. [Paper](https://arxiv.org/abs/2409.05819)
+### 1️Image Modal Generation🖼️
+1. **Physically Compatible 3D Object Modeling from a Single Image**. *Minghao Guo, Bohan Wang, Pingchuan Ma, Tianyuan Zhang, Crystal Elaine Owens, Chuang Gan, Joshua B. Tenenbaum, Kaiming He, Wojciech Matusik*, arXiv, 2024. [Paper](https://arxiv.org/abs/2405.20510)
 
-3. **Unsupervised Learning for Physical Interaction through Video Prediction**. *Chelsea Finn, Ian Goodfellow Openai, Sergey Levine, Google Brain*, Advances in Neural Information Processing Systems (NeurIPS), 2016. [Paper](https://proceedings.neurips.cc/paper_files/paper/2016/file/d9d4f495e875a2e075a1a4a6e1b9770f-Paper.pdf)
+2. **Generative Photography: Scene-Consistent Camera Control for Realistic Text-to-Image Synthesis**. *Yuan Yu, Xijun Wang, Yichen Sheng, Prateek Chennuri, Xingguang Zhang, and Stanley Chan*, Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025. [GitHub](https://github.com/pandayuanyu/generative-photography)
 
-4. **VR-GS: A Physical Dynamics-Aware Interactive Gaussian Splatting System in Virtual Reality**. *Ying Jiang, Chang Yu, Tianyi Xie, Xuan Li, Yutao Feng, Huamin Wang, Minchen Li, Henry Lau, Feng Gao, Yin Yang, Chenfanfu Jiang*, Proceedings - SIGGRAPH 2024 Conference Papers, 2024. [Paper](https://dl.acm.org/doi/10.1145/3641519.3657448)
-
-5. **DoughNet: A Visual Predictive Model for Topological Manipulation of Deformable Objects**. *Dominik Bauer, Zhenjia Xu, Shuran Song*, European Conference on Computer Vision (ECCV), 2024. [GitHub](https://github.com/dornik/doughnet)
-
-6. **Physically Compatible 3D Object Modeling from a Single Image**. *Minghao Guo, Bohan Wang, Pingchuan Ma, Tianyuan Zhang, Crystal Elaine Owens, Chuang Gan, Joshua B. Tenenbaum, Kaiming He, Wojciech Matusik*, arXiv, 2024. [Paper](https://arxiv.org/abs/2405.20510)
+3. **Cosmos-Transfer1: Conditional World Generation with Adaptive Multimodal Control**. *Hassan Abu Alhaija, Jose Alvarez, Maciej Bala, Tiffany Cai, Tianshi Cao, Liz Cha, Joshua Chen, Mike Chen, Francesco Ferroni, Sanja Fidler, Dieter Fox, Yunhao Ge, Jinwei Gu, Ali Hassani, Michael Isaev, Pooya Jannaty, Shiyi Lan, Tobias Lasser, Huan Ling, Ming-Yu Liu, Xian Liu, Yifan Lu, Alice Luo, Qianli Ma, Hanzi Mao, Fabio Ramos, Xuanchi Ren, Tianchang Shen, Shitao Tang, Ting-Chun Wang, Jay Wu, Jiashu Xu, Stella Xu, Kevin Xie, Yuchong Ye, Xiaodong Yang, Xiaohui Zeng, Yu Zeng*, arXiv, 2025. [GitHub](https://github.com/nvidia-cosmos/cosmos-transfer1)
 
 7. **Feature Splatting: Language-Driven Physics-Based Scene Synthesis and Editing**. *Ri-Zhao Qiu, Ge Yang, Weijia Zeng, Xiaolong Wang*, arXiv, 2024. [Paper](https://arxiv.org/abs/2404.01223)
 
-8. **Dream to Manipulate: Compositional World Models Empowering Robot Imitation Learning with Imagination**. *Leonardo Barcellona, Andrii Zadaianchuk, Davide Allegro, Samuele Papa, Stefano Ghidoni, Efstratios Gavves*, arXiv, 2024. [Paper](https://arxiv.org/abs/2412.14957)
-
-9. **Align Your Gaussians: Text-to-4D with Dynamic 3D Gaussians and Composed Diffusion Models**. *Huan Ling, Seung Wook Kim, Antonio Torralba, Sanja Fidler, Karsten Kreis*, Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024. [Paper](https://arxiv.org/abs/2312.13763)
-
-10. **LoopGaussian: Creating 3D Cinemagraph with Multi-view Images via Eulerian Motion Field**. *Jiyang Li, Lechao Cheng, Zhangye Wang, Tingting Mu, Jingxuan He*, arXiv, 2024. [Paper](https://arxiv.org/abs/2404.08966)
-
 11. **Disco4D: Disentangled 4D Human Generation and Animation from a Single Image**. *Hui En Pang, Shuai Liu, Zhongang Cai, Lei Yang, Tianwei Zhang, Ziwei Liu*, arXiv, 2024. [Paper](https://arxiv.org/abs/2409.17280)
-
-12. **Compositional 3D-aware Video Generation with LLM Director**. *Hanxin Zhu, Tianyu He, Anni Tang, Junliang Guo, Zhibo Chen, Jiang Bian*, arXiv, 2024. [Paper](https://arxiv.org/abs/2409.00558)
-
-13. **Improving Physics-Augmented Continuum Neural Radiance Field-Based Geometry-Agnostic System Identification with Lagrangian Particle Optimization**. *Takuhiro Kaneko*, Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024. [Paper](https://arxiv.org/abs/2406.04155)
 
 14. **Generative Image Dynamics**. *Zhengqi Li, Richard Tucker, Noah Snavely, Aleksander Holynski*, arXiv, 2023. [Paper](https://arxiv.org/abs/2309.07906)
 
 15. **LivePhoto: Real Image Animation with Text-guided Motion Control**. *Xi Chen, Zhiheng Liu, Mengting Chen, Yutong Feng, Yu Liu, Yujun Shen, Hengshuang Zhao*, arXiv, 2023. [Paper](https://arxiv.org/abs/2312.02928)
 
-16. **VideoComposer: Compositional Video Synthesis with Motion Controllability**. *Xiang Wang, Hangjie Yuan, Shiwei Zhang, Dayou Chen, Jiuniu Wang, Yingya Zhang, Yujun Shen, Deli Zhao, Jingren Zhou*, arXiv, 2023. [Paper](https://arxiv.org/abs/2306.02018)
-
-17. **PAC-NeRF: Physics Augmented Continuum Neural Radiance Fields for Geometry-Agnostic System Identification**. *Xuan Li, Yi-Ling Qiao, Peter Yichen Chen, Krishna Murthy Jatavallabhula, Ming Lin, Chenfanfu Jiang, Chuang Gan*, International Conference on Learning Representations (ICLR), 2023. [Paper](https://arxiv.org/abs/2303.05512)
-
-18. **SEINE: Short-to-Long Video Diffusion Model for Generative Transition and Prediction**. *Xinyuan Chen, Yaohui Wang, Lingjun Zhang, Shaobin Zhuang, Xin Ma, Jiashuo Yu, Yali Wang, Dahua Lin, Yu Qiao, Ziwei Liu*, arXiv, 2023. [GitHub](https://github.com/Vchitect/SEINE)
-
-19. **PhysGaussian: Physics-Integrated 3D Gaussians for Generative Dynamics**. *Tianyi Xie, Zeshun Zong, Yuxing Qiu, Xuan Li, Yutao Feng, Yin Yang, Chenfanfu Jiang*, Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024. [GitHub](https://github.com/XPandora/PhysGaussian)
-
-20. **InterDyn: Controllable Interactive Dynamics with Video Diffusion Models**. *Rick Akkerman, Haiwen Feng, Michael J. Black, Dimitrios Tzionas, Victoria Fernández Abrevaya*, arXiv, 2024. [Paper](https://arxiv.org/abs/2412.11785)
-
 21. **Motion Guidance: Diffusion-Based Image Editing with Differentiable Motion Estimators**. *Daniel Geng, Andrew Owens*, International Conference on Learning Representations (ICLR), 2024. [GitHub](https://github.com/dangeng/motion_guidance)
 
-22. **VideoPoet: A Large Language Model for Zero-Shot Video Generation**. *Dan Kondratyuk, Lijun Yu, Xiuye Gu, José Lezama, Jonathan Huang, Grant Schindler, Rachel Hornung, Vighnesh Birodkar, Jimmy Yan, Ming-Chang Chiu, Krishna Somandepalli, Hassan Akbari, Yair Alon, Yong Cheng, Josh Dillon, Agrim Gupta, Meera Hahn, Anja Hauth, David Hendon, Alonso Martinez, David Minnen, Mikhail Sirotenko, Kihyuk Sohn, Xuan Yang, Hartwig Adam, Ming-Hsuan Yang, Irfan Essa, Huisheng Wang, David A. Ross, Bryan Seybold, Lu Jiang*, International Conference on Machine Learning (ICML), 2024. [Paper](https://proceedings.mlr.press/v235/kondratyuk24a.html)
-
 23. **Implicit Warping for Animation with Image Sets**. *Arun Mallya, Ting-Chun Wang, Ming-Yu Liu*, Advances in Neural Information Processing Systems (NeurIPS), 2022. [Paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/8cb31912235561112339f04903657f72-Abstract-Conference.html)
-
-24. **Understanding Object Dynamics for Interactive Image-to-Video Synthesis**. *Andreas Blattmann, Timo Milbich, Michael Dorkenwald, Björn Ommer*, Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2021. [Paper](https://compvis.github.io/interactive-image2video-synthesis/)
 
 25. **Thin-Plate Spline Motion Model for Image Animation**. *Jian Zhao, Hui Zhang*, Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2022. [Paper](https://ieeexplore.ieee.org/document/9880299)
 
@@ -65,31 +37,48 @@
 
 27. **Animating Pictures with Eulerian Motion Fields**. *Aleksander Holynski, Brian Curless, Steven M Seitz, Richard Szeliski*, Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2021. [Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Holynski_Animating_Pictures_With_Eulerian_Motion_Fields_CVPR_2021_paper.html)
 
-28. **3D-VLA: A 3D Vision-Language-Action Generative World Model**. *Haoyu Zhen, Xiaowen Qiu, Peihao Chen, Jincheng Yang, Xin Yan, Yilun Du, Yining Hong, Chuang Gan*, arXiv, 2024. [GitHub](https://github.com/UMass-Foundation-Model/3D-VLA)
+47. **MagicAnimate: Temporally Consistent Human Image Animation using Diffusion Model**. *Zhongcong Xu, Jianfeng Zhang, Jun Hao Liew, Hanshu Yan, Jia-Wei Liu, Chenxu Zhang, Jiashi Feng, Mike Zheng Shou*, Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024. [Homepage](https://showlab.github.io/magicanimate/)
 
-29. **AC3D: Analyzing and Improving 3D Camera Control in Video Diffusion Transformers**. *Sherwin Bahmani, Ivan Skorokhodov, Guocheng Qian, Aliaksandr Siarohin, Willi Menapace, Andrea Tagliasacchi, David B. Lindell, Sergey Tulyakov*, arXiv, 2024. [Homepage](https://snap-research.github.io/ac3d/)
+52. **Phy124: Fast Physics-Driven 4D Content Generation from a Single Image**. *Jiajing Lin, Zhenzhong Wang, Yongjie Hou, Yuzhou Tang, Min Jiang*, arXiv, 2024. [Paper](https://arxiv.org/abs/2409.07179)
 
-30. **Atlas3D: Physically Constrained Self-Supporting Text-to-3D for Simulation and Fabrication**. *Yunuo Chen, Tianyi Xie, Zeshun Zong, Xuan Li, Feng Gao, Yin Yang, Ying Nian Wu, Chenfanfu Jiang*, arXiv, 2024. [Paper](https://arxiv.org/abs/2405.18515)
+53. **PhyCAGE: Physically Plausible Compositional 3D Asset Generation from a Single Image**. *Han Yan, Mingrui Zhang, Yang Li, Chao Ma, Pan Ji*, arXiv, 2024. [Paper](https://arxiv.org/abs/2411.18548)
 
-31. **Automated 3D Physical Simulation of Open-world Scene with Gaussian Splatting**. *Haoyu Zhao, Hao Wang, Xingyue Zhao, Hongqiu Wang, Zhiyu Wu, Chengjiang Long, Hua Zou*, arXiv, 2024. [Paper](https://arxiv.org/abs/2411.12789)
+63. **PhysMotion: Physics-Grounded Dynamics From a Single Image**. *Xiyang Tan, Ying Jiang, Xuan Li, Zeshun Zong, Tianyi Xie, Yin Yang, Chenfanfu Jiang*, arXiv, 2024. [Homepage](https://supertan0204.github.io/physmotion_website/)
+
+65. **PID: Physics-Informed Diffusion Model for Infrared Image Generation**. *Fangyuan Mao, Jilin Mei, Shun Lu, Fuyang Liu, Liang Chen, Fangzhou Zhao, Yu Hu*, arXiv, 2024. [GitHub](https://github.com/fangyuanmao/PID)
+
+89. **SINGAPO: Single Image Controlled Generation of Articulated Parts in Objects**. *Jiayi Liu, Denys Iliash, Angel X. Chang, Manolis Savva, Ali Mahdavi-Amiri*, arXiv, 2024. [Paper](https://arxiv.org/abs/2410.16499)
+
+91. **Paint-it: Text-to-Texture Synthesis via Deep Convolutional Texture Map Optimization and Physically-Based Rendering**. *Kim Youwang, Tae-Hyun Oh, Gerard Pons-Moll*, Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024. [GitHub](https://github.com/postech-ami/Paint-it)
+
+
+
+### 2️⃣Video Modal Generation🎥
+1. **Unsupervised Learning for Physical Interaction through Video Prediction**. *Chelsea Finn, Ian Goodfellow Openai, Sergey Levine, Google Brain*, Advances in Neural Information Processing Systems (NeurIPS), 2016. [Paper](https://proceedings.neurips.cc/paper_files/paper/2016/file/d9d4f495e875a2e075a1a4a6e1b9770f-Paper.pdf)
+
+3. **Cosmos-Transfer1: Conditional World Generation with Adaptive Multimodal Control**. *Hassan Abu Alhaija, Jose Alvarez, Maciej Bala, Tiffany Cai, Tianshi Cao, Liz Cha, Joshua Chen, Mike Chen, Francesco Ferroni, Sanja Fidler, Dieter Fox, Yunhao Ge, Jinwei Gu, Ali Hassani, Michael Isaev, Pooya Jannaty, Shiyi Lan, Tobias Lasser, Huan Ling, Ming-Yu Liu, Xian Liu, Yifan Lu, Alice Luo, Qianli Ma, Hanzi Mao, Fabio Ramos, Xuanchi Ren, Tianchang Shen, Shitao Tang, Ting-Chun Wang, Jay Wu, Jiashu Xu, Stella Xu, Kevin Xie, Yuchong Ye, Xiaodong Yang, Xiaohui Zeng, Yu Zeng*, arXiv, 2025. [GitHub](https://github.com/nvidia-cosmos/cosmos-transfer1)
+
+12. **Compositional 3D-aware Video Generation with LLM Director**. *Hanxin Zhu, Tianyu He, Anni Tang, Junliang Guo, Zhibo Chen, Jiang Bian*, arXiv, 2024. [Paper](https://arxiv.org/abs/2409.00558)
+
+16. **VideoComposer: Compositional Video Synthesis with Motion Controllability**. *Xiang Wang, Hangjie Yuan, Shiwei Zhang, Dayou Chen, Jiuniu Wang, Yingya Zhang, Yujun Shen, Deli Zhao, Jingren Zhou*, arXiv, 2023. [Paper](https://arxiv.org/abs/2306.02018)
+
+18. **SEINE: Short-to-Long Video Diffusion Model for Generative Transition and Prediction**. *Xinyuan Chen, Yaohui Wang, Lingjun Zhang, Shaobin Zhuang, Xin Ma, Jiashuo Yu, Yali Wang, Dahua Lin, Yu Qiao, Ziwei Liu*, arXiv, 2023. [GitHub](https://github.com/Vchitect/SEINE)
+
+20. **InterDyn: Controllable Interactive Dynamics with Video Diffusion Models**. *Rick Akkerman, Haiwen Feng, Michael J. Black, Dimitrios Tzionas, Victoria Fernández Abrevaya*, arXiv, 2024. [Paper](https://arxiv.org/abs/2412.11785)
+
+22. **VideoPoet: A Large Language Model for Zero-Shot Video Generation**. *Dan Kondratyuk, Lijun Yu, Xiuye Gu, José Lezama, Jonathan Huang, Grant Schindler, Rachel Hornung, Vighnesh Birodkar, Jimmy Yan, Ming-Chang Chiu, Krishna Somandepalli, Hassan Akbari, Yair Alon, Yong Cheng, Josh Dillon, Agrim Gupta, Meera Hahn, Anja Hauth, David Hendon, Alonso Martinez, David Minnen, Mikhail Sirotenko, Kihyuk Sohn, Xuan Yang, Hartwig Adam, Ming-Hsuan Yang, Irfan Essa, Huisheng Wang, David A. Ross, Bryan Seybold, Lu Jiang*, International Conference on Machine Learning (ICML), 2024. [Paper](https://proceedings.mlr.press/v235/kondratyuk24a.html)
+
+24. **Understanding Object Dynamics for Interactive Image-to-Video Synthesis**. *Andreas Blattmann, Timo Milbich, Michael Dorkenwald, Björn Ommer*, Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2021. [Paper](https://compvis.github.io/interactive-image2video-synthesis/)
 
 32. **AutoVFX: Physically Realistic Video Editing from Natural Language Instructions**. *Hao-Yu Hsu, Zhi-Hao Lin, Albert Zhai, Hongchi Xia, Shenlong Wang*, arXiv, 2024. [Homepage](https://www.aimodels.fyi/papers/arxiv/autovfx-physically-realistic-video-editing-from-natural)
 
 33. **Controllable Video Generation Through Global and Local Motion Dynamics**. *Aram Davtyan, Paolo Favaro*, European Conference on Computer Vision, 2022. [Paper](https://araachie.github.io/glass/)
-
-34. **DiffuseBot: Breeding Soft Robots With Physics-Augmented Generative Diffusion Models**. *Tsun-Hsuan Wang, Juntian Zheng, Pingchuan Ma, Yilun Du, Byungchul Kim, Andrew Spielberg, Joshua Tenenbaum, Chuang Gan, Daniela Rus*, Advances in Neural Information Processing Systems (NeurIPS), 2023. [Homepage](https://diffusebot.github.io/)
-
-35. **DreamPhysics: Learning Physics-Based 3D Dynamics with Video Diffusion Priors**. *Tianyu Huang, Haoze Zhang, Yihan Zeng, Zhilu Zhang, Hui Li, Wangmeng Zuo, Rynson W. H. Lau*, arXiv, 2024. [GitHub](https://github.com/tyhuang0428/DreamPhysics)
 
 36. **Generating 3D-Consistent Videos from Unposed Internet Photos**. *Gene Chou, Kai Zhang, Sai Bi, Hao Tan, Zexiang Xu, Fujun Luan, Bharath Hariharan, Noah Snavely*, arXiv, 2024. [Paper](https://arxiv.org/abs/2411.13549)
 
 37. **Generative Omnimatte: Learning to Decompose Video into Layers**. *Yao-Chih Lee, Erika Lu, Sarah Rumbley, Michal Geyer, Jia-Bin Huang, Tali Dekel, Forrester Cole*, arXiv, 2024. [Homepage](https://gen-omnimatte.github.io/)
 
 38. **GPT4Motion: Scripting Physical Motions in Text-to-Video Generation via Blender-Oriented GPT Planning**. *Jiaxi Lv, Yi Huang, Mingfu Yan, Jiancheng Huang, Jianzhuang Liu, Yifan Liu, Yafei Wen, Xiaoxin Chen, Shifeng Chen*, Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024.  [GitHub](https://github.com/jiaxilv/GPT4Motion)
-
-39. **GR-2: A Generative Video-Language-Action Model with Web-Scale Knowledge for Robot Manipulation**. *Chi-Lam Cheang, Guangzeng Chen, Ya Jing, Tao Kong, Hang Li, Yifeng Li, Yuxiao Liu, Hongtao Wu, Jiafeng Xu, Yichu Yang, Hanbo Zhang, Minzhao Zhu*, arXiv, 2024. [Homepage](https://gr2-manipulation.github.io/)
-
-40. **Harmon: Whole-Body Motion Generation of Humanoid Robots from Language Descriptions**. *Zhenyu Jiang, Yuqi Xie, Jinhan Li, Ye Yuan, Yifeng Zhu, Yuke Zhu*, arXiv, 2024. [Paper](https://arxiv.org/abs/2410.12773)
 
 41. **HOI-Swap: Swapping Objects in Videos with Hand-Object Interaction Awareness**. *Zihui Xue, Mi Luo, Changan Chen, Kristen Grauman*, arXiv, 2024. [GitHub](https://github.com/zihuixue/HOISwap)
 
@@ -99,12 +88,6 @@
 
 44. **Learn the Force We Can: Enabling Sparse Motion Control in Multi-Object Video Generation**. *Aram Davtyan, Paolo Favaro*, Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2024. [GitHub](https://github.com/araachie/yoda)
 
-45. **LIVE-GS: LLM Powers Interactive VR by Enhancing Gaussian Splatting**. *Haotian Mao, Zhuoxiong Xu, Siyue Wei, Yule Quan, Nianchen Deng, Xubo Yang*, arXiv, 2024. [Paper](https://arxiv.org/abs/2412.09176)
-
-46. **LLMPhy: Complex Physical Reasoning Using Large Language Models and World Models**. *Anoop Cherian, Radu Corcodel, Siddarth Jain, Diego Romeres*, arXiv, 2024. [Paper](https://arxiv.org/abs/2411.08027)
-
-47. **MagicAnimate: Temporally Consistent Human Image Animation using Diffusion Model**. *Zhongcong Xu, Jianfeng Zhang, Jun Hao Liew, Hanshu Yan, Jia-Wei Liu, Chenxu Zhang, Jiashi Feng, Mike Zheng Shou*, Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024. [Homepage](https://showlab.github.io/magicanimate/)
-
 48. **Motion Prompting: Controlling Video Generation with Motion Trajectories**. *Daniel Geng, Charles Herrmann, Junhwa Hur, Forrester Cole, Serena Zhang, Tobias Pfaff, Tatiana Lopez-Guevara, Carl Doersch, Yusuf Aytar, Michael Rubinstein, Chen Sun, Oliver Wang, Andrew Owens, Deqing Sun*, arXiv, 2024. [Homepage](https://motion-prompting.github.io/)
 
 49. **Motion-Conditioned Diffusion Model for Controllable Video Synthesis**. *Tsai-Shien Chen, Chieh Hubert Lin, Hung-Yu Tseng, Tsung-Yi Lin, Ming-Hsuan Yang*, arXiv, 2023. [Paper](https://arxiv.org/abs/2304.14404)
@@ -113,41 +96,72 @@
 
 51. **PastNet: Introducing Physical Inductive Biases for Spatio-temporal Video Prediction**. *Hao Wu, Wei Xiong, Fan Xu, Xiao Luo, Chong Chen, Xian-Sheng Hua, Haixin Wang*, Proceedings of the 32nd ACM International Conference on Multimedia, 2024. [Paper](https://dl.acm.org/doi/10.1145/3664647.3681489)
 
-52. **Phy124: Fast Physics-Driven 4D Content Generation from a Single Image**. *Jiajing Lin, Zhenzhong Wang, Yongjie Hou, Yuzhou Tang, Min Jiang*, arXiv, 2024. [Paper](https://arxiv.org/abs/2409.07179)
-
-53. **PhyCAGE: Physically Plausible Compositional 3D Asset Generation from a Single Image**. *Han Yan, Mingrui Zhang, Yang Li, Chao Ma, Pan Ji*, arXiv, 2024. [Paper](https://arxiv.org/abs/2411.18548)
-
-54. **PhyRecon: Physically Plausible Neural Scene Reconstruction**. *Junfeng Ni, Yixin Chen, Bohan Jing, Nan Jiang, Bin Wang, Bo Dai, Puhao Li, Yixin Zhu, Song-Chun Zhu, Siyuan Huang*, arXiv, 2024. [GitHub](https://github.com/PhyRecon/PhyRecon)
-
-55. **Phys4DGen: A Physics-Driven Framework for Controllable and Efficient 4D Content Generation from a Single Image**. *Jiajing Lin, Zhenzhong Wang, Shu Jiang, Yongjie Hou, Min Jiang*, arXiv, 2024. [Homepage](https://jiajinglin.github.io/Phys4DGen/)
-
-56. **PhysDiff: Physics-Guided Human Motion Diffusion Model**. *Ye Yuan, Jiaming Song, Umar Iqbal, Arash Vahdat, Jan Kautz*, Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV), 2023. [Paper](https://ieeexplore.ieee.org/document/10378047)
-
 57. **PhysDreamer: Physics-Based Interaction with 3D Objects via Video Generation**. *Tianyuan Zhang, Hong-Xing Yu, Rundi Wu, Brandon Y. Feng, Changxi Zheng, Noah Snavely, Jiajun Wu, William T. Freeman*, European Conference on Computer Vision (ECCV), 2024. [GitHub](https://github.com/a1600012888/PhysDreamer)
 
 58. **PhysGen: Rigid-Body Physics-Grounded Image-to-Video Generation**. *Shaowei Liu, Zhongzheng Ren, Saurabh Gupta, Shenlong Wang*, European Conference on Computer Vision (ECCV), 2024. [GitHub](https://github.com/stevenlsw/physgen)
 
-59. **Physics informed neural fields for smoke reconstruction with sparse data**. *Mengyu Chu, Lingjie Liu, Quan Zheng, Erik Franz, Hans Peter Seidel, Christian Theobalt, Rhaleb Zayer*, ACM Transactions on Graphics, 2022. [Paper](https://dl.acm.org/doi/10.1145/3528223.3530169)
-
 60. **Physics-based Human Motion Estimation and Synthesis from Videos**. *Kevin Xie, Tingwu Wang, Umar Iqbal, Yunrong Guo, Sanja Fidler, Florian Shkurti*, Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV), 2021. [Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Xie_Physics-Based_Human_Motion_Estimation_and_Synthesis_From_Videos_ICCV_2021_paper.html)
 
-61. **Physics-Driven Diffusion Models for Impact Sound Synthesis from Videos**. *Kun Su, Kaizhi Qian, Eli Shlizerman, Antonio Torralba, Chuang Gan*, Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023. [Homepage](https://sukun1045.github.io/video-physics-sound-diffusion/)
+85. **Scene Co-pilot: Procedural Text to Video Generation with Human in the Loop**. *Zhaofang Qian, Abolfazl Sharifi, Tucker Carroll, Ser-Nam Lim*, arXiv, 2024. [Homepage](https://abolfazl-sh.github.io/Scene_co-pilot_site/)
+
+87. **Motion Dreamer: Realizing Physically Coherent Video Generation through Scene-Aware Motion Reasoning**. *Tianshuo Xu, Zhifei Chen, Leyi Wu, Hao Lu, Yuying Chen, Lihui Jiang, Bingbing Liu, Yingcong Chen*, arXiv, 2024. [Paper](https://arxiv.org/abs/2412.00547)
+
+93. **Towards Physically Stable Motion Generation: A New Paradigm of Human Pose Representation**. *Qiongjie Cui, Zhenyu Lou, Zhenbo Song, Xiangbo Shu*, IEEE Transactions on Circuits and Systems for Video Technology, 2024. [Paper](https://www.researchgate.net/publication/387101678_Towards_Physically_Stable_Motion_Generation_A_New_Paradigm_of_Human_Pose_Representation)
+
+94. **Generating Physically Realistic and Directable Human Motions from Multi-Modal Inputs**. *Aayam Shrestha, Pan Liu, German Ros, Kai Yuan, Alan Fern*, European Conference on Computer Vision (ECCV), 2024. [Homepage](https://idigitopia.github.io/projects/mhc/)
+
+
+
+### 3️⃣3D Modal Generation🧊
+1. **Visual Grounding of Learned Physical Models**. *Yunzhu Li, Toru Lin, Kexin Yi, Daniel M. Bear, Daniel L. K. Yamins, Jiajun Wu, Joshua B. Tenenbaum, Antonio Torralba*, International Conference on Machine Learning (ICML), 2020. [GitHub](https://github.com/YunzhuLi/VGPL)
+
+2. **GASP: Gaussian Splatting for Physic-Based Simulations**. *Piotr Borycki, Weronika Smolak, Joanna Waczyńska, Marcin Mazur, Sławomir Tadeja, Przemysław Spurek*, arXiv, 2024. [Paper](https://arxiv.org/abs/2409.05819)
+
+3. **Cosmos-Transfer1: Conditional World Generation with Adaptive Multimodal Control**. *Hassan Abu Alhaija, Jose Alvarez, Maciej Bala, Tiffany Cai, Tianshi Cao, Liz Cha, Joshua Chen, Mike Chen, Francesco Ferroni, Sanja Fidler, Dieter Fox, Yunhao Ge, Jinwei Gu, Ali Hassani, Michael Isaev, Pooya Jannaty, Shiyi Lan, Tobias Lasser, Huan Ling, Ming-Yu Liu, Xian Liu, Yifan Lu, Alice Luo, Qianli Ma, Hanzi Mao, Fabio Ramos, Xuanchi Ren, Tianchang Shen, Shitao Tang, Ting-Chun Wang, Jay Wu, Jiashu Xu, Stella Xu, Kevin Xie, Yuchong Ye, Xiaodong Yang, Xiaohui Zeng, Yu Zeng*, arXiv, 2025. [GitHub](https://github.com/nvidia-cosmos/cosmos-transfer1)
+
+4. **VR-GS: A Physical Dynamics-Aware Interactive Gaussian Splatting System in Virtual Reality**. *Ying Jiang, Chang Yu, Tianyi Xie, Xuan Li, Yutao Feng, Huamin Wang, Minchen Li, Henry Lau, Feng Gao, Yin Yang, Chenfanfu Jiang*, Proceedings - SIGGRAPH 2024 Conference Papers, 2024. [Paper](https://dl.acm.org/doi/10.1145/3641519.3657448)
+
+5. **DoughNet: A Visual Predictive Model for Topological Manipulation of Deformable Objects**. *Dominik Bauer, Zhenjia Xu, Shuran Song*, European Conference on Computer Vision (ECCV), 2024. [GitHub](https://github.com/dornik/doughnet)
+
+13. **Improving Physics-Augmented Continuum Neural Radiance Field-Based Geometry-Agnostic System Identification with Lagrangian Particle Optimization**. *Takuhiro Kaneko*, Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024. [Paper](https://arxiv.org/abs/2406.04155)
+
+17. **PAC-NeRF: Physics Augmented Continuum Neural Radiance Fields for Geometry-Agnostic System Identification**. *Xuan Li, Yi-Ling Qiao, Peter Yichen Chen, Krishna Murthy Jatavallabhula, Ming Lin, Chenfanfu Jiang, Chuang Gan*, International Conference on Learning Representations (ICLR), 2023. [Paper](https://arxiv.org/abs/2303.05512)
+
+28. **3D-VLA: A 3D Vision-Language-Action Generative World Model**. *Haoyu Zhen, Xiaowen Qiu, Peihao Chen, Jincheng Yang, Xin Yan, Yilun Du, Yining Hong, Chuang Gan*, arXiv, 2024. [GitHub](https://github.com/UMass-Foundation-Model/3D-VLA)
+
+29. **AC3D: Analyzing and Improving 3D Camera Control in Video Diffusion Transformers**. *Sherwin Bahmani, Ivan Skorokhodov, Guocheng Qian, Aliaksandr Siarohin, Willi Menapace, Andrea Tagliasacchi, David B. Lindell, Sergey Tulyakov*, arXiv, 2024. [Homepage](https://snap-research.github.io/ac3d/)
+
+30. **Atlas3D: Physically Constrained Self-Supporting Text-to-3D for Simulation and Fabrication**. *Yunuo Chen, Tianyi Xie, Zeshun Zong, Xuan Li, Feng Gao, Yin Yang, Ying Nian Wu, Chenfanfu Jiang*, arXiv, 2024. [Paper](https://arxiv.org/abs/2405.18515)
+
+31. **Automated 3D Physical Simulation of Open-world Scene with Gaussian Splatting**. *Haoyu Zhao, Hao Wang, Xingyue Zhao, Hongqiu Wang, Zhiyu Wu, Chengjiang Long, Hua Zou*, arXiv, 2024. [Paper](https://arxiv.org/abs/2411.12789)
+
+34. **DiffuseBot: Breeding Soft Robots With Physics-Augmented Generative Diffusion Models**. *Tsun-Hsuan Wang, Juntian Zheng, Pingchuan Ma, Yilun Du, Byungchul Kim, Andrew Spielberg, Joshua Tenenbaum, Chuang Gan, Daniela Rus*, Advances in Neural Information Processing Systems (NeurIPS), 2023. [Homepage](https://diffusebot.github.io/)
+
+35. **DreamPhysics: Learning Physics-Based 3D Dynamics with Video Diffusion Priors**. *Tianyu Huang, Haoze Zhang, Yihan Zeng, Zhilu Zhang, Hui Li, Wangmeng Zuo, Rynson W. H. Lau*, arXiv, 2024. [GitHub](https://github.com/tyhuang0428/DreamPhysics)
+
+45. **LIVE-GS: LLM Powers Interactive VR by Enhancing Gaussian Splatting**. *Haotian Mao, Zhuoxiong Xu, Siyue Wei, Yule Quan, Nianchen Deng, Xubo Yang*, arXiv, 2024. [Paper](https://arxiv.org/abs/2412.09176)
+
+54. **PhyRecon: Physically Plausible Neural Scene Reconstruction**. *Junfeng Ni, Yixin Chen, Bohan Jing, Nan Jiang, Bin Wang, Bo Dai, Puhao Li, Yixin Zhu, Song-Chun Zhu, Siyuan Huang*, arXiv, 2024. [GitHub](https://github.com/PhyRecon/PhyRecon)
+
+59. **Physics informed neural fields for smoke reconstruction with sparse data**. *Mengyu Chu, Lingjie Liu, Quan Zheng, Erik Franz, Hans Peter Seidel, Christian Theobalt, Rhaleb Zayer*, ACM Transactions on Graphics, 2022. [Paper](https://dl.acm.org/doi/10.1145/3528223.3530169)
 
 62. **Physics-Guided Human Motion Capture with Pose Probability Modeling**. *Jingyi Ju, Buzhen Huang, Chen Zhu, Zhihao Li, Yangang Wang*, arXiv, 2023. [GitHub](https://github.com/Me-Ditto/Physics-Guided-Mocap)
-
-63. **PhysMotion: Physics-Grounded Dynamics From a Single Image**. *Xiyang Tan, Ying Jiang, Xuan Li, Zeshun Zong, Tianyi Xie, Yin Yang, Chenfanfu Jiang*, arXiv, 2024. [Homepage](https://supertan0204.github.io/physmotion_website/)
-
-64. **Physics3D: Learning Physical Properties of 3D Gaussians via Video Diffusion**. *Fangfu Liu, Hanyang Wang, Shunyu Yao, Shengjun Zhang, Jie Zhou, Yueqi Duan*, arXiv, 2024. [Homepage](https://liuff19.github.io/Physics3D/)
-
-65. **PID: Physics-Informed Diffusion Model for Infrared Image Generation**. *Fangyuan Mao, Jilin Mei, Shun Lu, Fuyang Liu, Liang Chen, Fangzhou Zhao, Yu Hu*, arXiv, 2024. [GitHub](https://github.com/fangyuanmao/PID)
-
-66. **Procedural Generation of Videos to Train Deep Action Recognition Networks**. *Cesar Roberto deSouza, Adrien Gaidon, Yohann Cabon, Antonio Manuel Lopez Pena*, arXiv, 2016. [Paper](https://arxiv.org/abs/1612.00881)
 
 67. **Radiative Gaussian Splatting for Efficient X-ray Novel View Synthesis**. *Yuanhao Cai, Yixun Liang, Jiahao Wang, Angtian Wang, Yulun Zhang, Xiaokang Yang, Zongwei Zhou, Alan Yuille*, arXiv, 2024. [GitHub](https://github.com/caiyuanhao1998/X-Gaussian)
 
 68. **RoboGen: Towards Unleashing Infinite Data for Automated Robot Learning via Generative Simulation**. *Yufei Wang, Zhou Xian, Feng Chen, Tsun-Hsuan Wang, Yian Wang, Katerina Fragkiadaki, Zackory Erickson, David Held, Chuang Gan*, arXiv, 2023. [GitHub](https://github.com/Genesis-Embodied-AI/RoboGen)
 
-69. **Scaling In-the-Wild Training for Diffusion-based Illumination Harmonization and Editing by Imposing Consistent Light Transport**. *Unknown*, International Conference on Learning Representations (ICLR), 2025. [GitHub](https://github.com/lllyasviel/IC-Light)
+73. **Synthetic Vision: Training Vision-Language Models to Understand Physics**. *Vahid Balazadeh, Mohammadmehdi Ataei, Hyunmin Cheong, Amir Hosein Khasahmadi, Rahul G. Krishnan*, arXiv, 2024. [Paper](https://arxiv.org/abs/2412.08619)
+
+76. **VD3D: Taming Large Video Diffusion Transformers for 3D Camera Control**. *Sherwin Bahmani, Ivan Skorokhodov, Aliaksandr Siarohin, Willi Menapace, Guocheng Qian, Michael Vasilkovsky, Hsin-Ying Lee, Chaoyang Wang, Jiaxu Zou, Andrea Tagliasacchi, David B. Lindell, Sergey Tulyakov*, arXiv, 2024. [Homepage](https://snap-research.github.io/vd3d/gallery.html)
+
+79. **VividDream: Generating 3D Scene with Ambient Dynamics**. *Yao-Chih Lee, Yi-Ting Chen, Andrew Wang, Ting-Hsuan Liao, Brandon Y. Feng, Jia-Bin Huang*, arXiv, 2024. [Paper](https://arxiv.org/abs/2405.20334)
+
+80. **Physically-aware Generative Network for 3D Shape Modeling**. *Mariem Mezghanni, Malika Boulkenafed, André Lieutier, Maks Ovsjanikov*, Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2021. [Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Mezghanni_Physically-Aware_Generative_Network_for_3D_Shape_Modeling_CVPR_2021_paper.html)
+
+61. **Physics-Driven Diffusion Models for Impact Sound Synthesis from Videos**. *Kun Su, Kaizhi Qian, Eli Shlizerman, Antonio Torralba, Chuang Gan*, Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023. [Homepage](https://sukun1045.github.io/video-physics-sound-diffusion/)
+
+66. **Procedural Generation of Videos to Train Deep Action Recognition Networks**. *Cesar Roberto deSouza, Adrien Gaidon, Yohann Cabon, Antonio Manuel Lopez Pena*, arXiv, 2016. [Paper](https://arxiv.org/abs/1612.00881)
 
 70. **SparseCtrl: Adding Sparse Controls to Text-to-Video Diffusion Models**. *Yuwei Guo, Ceyuan Yang, Anyi Rao, Maneesh Agrawala, Dahua Lin, Bo Dai*, arXiv, 2023. [Paper](https://arxiv.org/abs/2311.16933)
 
@@ -155,49 +169,57 @@
 
 72. **StoryAgent: Customized Storytelling Video Generation via Multi-Agent Collaboration**. *Panwen Hu, Jin Jiang, Jianqi Chen, Mingfei Han, Shengcai Liao, Xiaojun Chang, Xiaodan Liang*, arXiv, 2024. [Paper](https://arxiv.org/abs/2411.04925)
 
-73. **Synthetic Vision: Training Vision-Language Models to Understand Physics**. *Vahid Balazadeh, Mohammadmehdi Ataei, Hyunmin Cheong, Amir Hosein Khasahmadi, Rahul G. Krishnan*, arXiv, 2024. [Paper](https://arxiv.org/abs/2412.08619)
-
 74. **Towards World Simulator: Crafting Physical Commonsense-Based Benchmark for Video Generation**. *Fanqing Meng, Jiaqi Liao, Xinyu Tan, Wenqi Shao, Quanfeng Lu, Kaipeng Zhang, Yu Cheng, Dianqi Li, Yu Qiao, Ping Luo*, arXiv, 2024. [GitHub](https://github.com/OpenGVLab/PhyGenBench)
 
 75. **Trajectory Optimization for Physics-Based Reconstruction of 3d Human Pose from Monocular Video**. *Erik Gartner, Mykhaylo Andriluka, Hongyi Xu, Cristian Sminchisescu*, Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2022. [Homepage](https://gartner.io/trajectory/)
-
-76. **VD3D: Taming Large Video Diffusion Transformers for 3D Camera Control**. *Sherwin Bahmani, Ivan Skorokhodov, Aliaksandr Siarohin, Willi Menapace, Guocheng Qian, Michael Vasilkovsky, Hsin-Ying Lee, Chaoyang Wang, Jiaxu Zou, Andrea Tagliasacchi, David B. Lindell, Sergey Tulyakov*, arXiv, 2024. [Homepage](https://snap-research.github.io/vd3d/gallery.html)
 
 77. **Video Creation by Demonstration**. *Yihong Sun, Hao Zhou, Liangzhe Yuan, Jennifer J. Sun, Yandong Li, Xuhui Jia, Hartwig Adam, Bharath Hariharan, Long Zhao, Ting Liu*, arXiv, 2024. [GitHub](https://delta-diffusion.github.io/)
 
 78. **Video2Game: Real-time, Interactive, Realistic and Browser-Compatible Environment from a Single Video**. *Hongchi Xia, Zhi-Hao Lin, Wei-Chiu Ma, Shenlong Wang*, arXiv, 2024. [Homepage](https://video2game.github.io/)
 
-79. **VividDream: Generating 3D Scene with Ambient Dynamics**. *Yao-Chih Lee, Yi-Ting Chen, Andrew Wang, Ting-Hsuan Liao, Brandon Y. Feng, Jia-Bin Huang*, arXiv, 2024. [Paper](https://arxiv.org/abs/2405.20334)
-
-80. **Physically-aware Generative Network for 3D Shape Modeling**. *Mariem Mezghanni, Malika Boulkenafed, André Lieutier, Maks Ovsjanikov*, Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2021. [Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Mezghanni_Physically-Aware_Generative_Network_for_3D_Shape_Modeling_CVPR_2021_paper.html)
-
 81. **Physically-guided Disentangled Implicit Rendering for 3D Face Modeling**. *Zhenyu Zhang, Yanhao Ge, Ying Tai, Weijian Cao, Renwang Chen, Kunlin Liu, Hao Tang, Xiaoming Huang, Chengjie Wang, Zhifeng Xie, Dongjin Huang, Tencent Youtu Lab*, Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2022. [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9878983)
 
 82. **Few-Shot Physically-Aware Articulated Mesh Generation via Hierarchical Deformation**. *Xueyi Liu, Bin Wang, He Wang, Yi Li*, Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV), 2023. [GitHub](https://github.com/Meowuu7/few-arti-gen)
 
-83. **CoCoGen: Physically-Consistent and Conditioned Score-based Generative Models for Forward and Inverse Problems**. *Christian Jacobsen, Yilin Zhuang, Karthik Duraisamy*, arXiv, 2023. [Paper](https://arxiv.org/abs/2312.10527)
-
 84. **LLplace: The 3D Indoor Scene Layout Generation and Editing via Large Language Model**. *Yixuan Yang, Junru Lu, Zixiang Zhao, Zhen Luo, James J. Q. Yu, Victor Sanchez, Feng Zheng*, arXiv, 2024. [Paper](https://arxiv.org/abs/2406.03866)
-
-85. **Scene Co-pilot: Procedural Text to Video Generation with Human in the Loop**. *Zhaofang Qian, Abolfazl Sharifi, Tucker Carroll, Ser-Nam Lim*, arXiv, 2024. [Homepage](https://abolfazl-sh.github.io/Scene_co-pilot_site/)
-
-86. **M2Diffuser: Diffusion-based Trajectory Optimization for Mobile Manipulation in 3D Scenes**. *Sixu Yan, Zeyu Zhang, Muzhi Han, Zaijin Wang, Qi Xie, Zhitian Li, Zhehan Li, Hangxin Liu, Xinggang Wang, Song-Chun Zhu*, arXiv, 2024. [Paper](https://arxiv.org/abs/2410.11402)
-
-87. **Motion Dreamer: Realizing Physically Coherent Video Generation through Scene-Aware Motion Reasoning**. *Tianshuo Xu, Zhifei Chen, Leyi Wu, Hao Lu, Yuying Chen, Lihui Jiang, Bingbing Liu, Yingcong Chen*, arXiv, 2024. [Paper](https://arxiv.org/abs/2412.00547)
 
 88. **PhysPart: Physically Plausible Part Completion for Interactable Objects**. *Rundong Luo, Haoran Geng, Congyue Deng, Puhao Li, Zan Wang, Baoxiong Jia, Leonidas Guibas, Siyuan Huang*, arXiv, 2024. [Paper](https://arxiv.org/abs/2408.13724)
 
-89. **SINGAPO: Single Image Controlled Generation of Articulated Parts in Objects**. *Jiayi Liu, Denys Iliash, Angel X. Chang, Manolis Savva, Ali Mahdavi-Amiri*, arXiv, 2024. [Paper](https://arxiv.org/abs/2410.16499)
-
 90. **PHYSCENE: Physically Interactable 3D Scene Synthesis for Embodied AI**. *Yandan Yang, Baoxiong Jia, Peiyuan Zhi, Siyuan Huang*, Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024. [Paper](https://cvpr.thecvf.com/virtual/2024/poster/29554)
 
-91. **Paint-it: Text-to-Texture Synthesis via Deep Convolutional Texture Map Optimization and Physically-Based Rendering**. *Kim Youwang, Tae-Hyun Oh, Gerard Pons-Moll*, Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024. [GitHub](https://github.com/postech-ami/Paint-it)
+
+
+### 4️⃣4D Modal Generation⏳
+1. **Dream to Manipulate: Compositional World Models Empowering Robot Imitation Learning with Imagination**. *Leonardo Barcellona, Andrii Zadaianchuk, Davide Allegro, Samuele Papa, Stefano Ghidoni, Efstratios Gavves*, arXiv, 2024. [Paper](https://arxiv.org/abs/2412.14957)
+
+3. **Cosmos-Transfer1: Conditional World Generation with Adaptive Multimodal Control**. *Hassan Abu Alhaija, Jose Alvarez, Maciej Bala, Tiffany Cai, Tianshi Cao, Liz Cha, Joshua Chen, Mike Chen, Francesco Ferroni, Sanja Fidler, Dieter Fox, Yunhao Ge, Jinwei Gu, Ali Hassani, Michael Isaev, Pooya Jannaty, Shiyi Lan, Tobias Lasser, Huan Ling, Ming-Yu Liu, Xian Liu, Yifan Lu, Alice Luo, Qianli Ma, Hanzi Mao, Fabio Ramos, Xuanchi Ren, Tianchang Shen, Shitao Tang, Ting-Chun Wang, Jay Wu, Jiashu Xu, Stella Xu, Kevin Xie, Yuchong Ye, Xiaodong Yang, Xiaohui Zeng, Yu Zeng*, arXiv, 2025. [GitHub](https://github.com/nvidia-cosmos/cosmos-transfer1)
+
+9. **Align Your Gaussians: Text-to-4D with Dynamic 3D Gaussians and Composed Diffusion Models**. *Huan Ling, Seung Wook Kim, Antonio Torralba, Sanja Fidler, Karsten Kreis*, Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024. [Paper](https://arxiv.org/abs/2312.13763)
+
+10. **LoopGaussian: Creating 3D Cinemagraph with Multi-view Images via Eulerian Motion Field**. *Jiyang Li, Lechao Cheng, Zhangye Wang, Tingting Mu, Jingxuan He*, arXiv, 2024. [Paper](https://arxiv.org/abs/2404.08966)
+
+19. **PhysGaussian: Physics-Integrated 3D Gaussians for Generative Dynamics**. *Tianyi Xie, Zeshun Zong, Yuxing Qiu, Xuan Li, Yutao Feng, Yin Yang, Chenfanfu Jiang*, Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024. [GitHub](https://github.com/XPandora/PhysGaussian)
+
+39. **GR-2: A Generative Video-Language-Action Model with Web-Scale Knowledge for Robot Manipulation**. *Chi-Lam Cheang, Guangzeng Chen, Ya Jing, Tao Kong, Hang Li, Yifeng Li, Yuxiao Liu, Hongtao Wu, Jiafeng Xu, Yichu Yang, Hanbo Zhang, Minzhao Zhu*, arXiv, 2024. [Homepage](https://gr2-manipulation.github.io/)
+
+40. **Harmon: Whole-Body Motion Generation of Humanoid Robots from Language Descriptions**. *Zhenyu Jiang, Yuqi Xie, Jinhan Li, Ye Yuan, Yifeng Zhu, Yuke Zhu*, arXiv, 2024. [Paper](https://arxiv.org/abs/2410.12773)
+
+46. **LLMPhy: Complex Physical Reasoning Using Large Language Models and World Models**. *Anoop Cherian, Radu Corcodel, Siddarth Jain, Diego Romeres*, arXiv, 2024. [Paper](https://arxiv.org/abs/2411.08027)
+
+55. **Phys4DGen: A Physics-Driven Framework for Controllable and Efficient 4D Content Generation from a Single Image**. *Jiajing Lin, Zhenzhong Wang, Shu Jiang, Yongjie Hou, Min Jiang*, arXiv, 2024. [Homepage](https://jiajinglin.github.io/Phys4DGen/)
+
+56. **PhysDiff: Physics-Guided Human Motion Diffusion Model**. *Ye Yuan, Jiaming Song, Umar Iqbal, Arash Vahdat, Jan Kautz*, Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV), 2023. [Paper](https://ieeexplore.ieee.org/document/10378047)
+
+64. **Physics3D: Learning Physical Properties of 3D Gaussians via Video Diffusion**. *Fangfu Liu, Hanyang Wang, Shunyu Yao, Shengjun Zhang, Jie Zhou, Yueqi Duan*, arXiv, 2024. [Homepage](https://liuff19.github.io/Physics3D/)
+
+69. **Scaling In-the-Wild Training for Diffusion-based Illumination Harmonization and Editing by Imposing Consistent Light Transport**. *Unknown*, International Conference on Learning Representations (ICLR), 2025. [GitHub](https://github.com/lllyasviel/IC-Light)
+
+86. **M2Diffuser: Diffusion-based Trajectory Optimization for Mobile Manipulation in 3D Scenes**. *Sixu Yan, Zeyu Zhang, Muzhi Han, Zaijin Wang, Qi Xie, Zhitian Li, Zhehan Li, Hangxin Liu, Xinggang Wang, Song-Chun Zhu*, arXiv, 2024. [Paper](https://arxiv.org/abs/2410.11402)
 
 92. **PhysReaction: Physically Plausible Real-Time Humanoid Reaction Synthesis via Forward Dynamics Guided 4D Imitation**. *Yunze Liu, Changxi Chen, Chenjing Ding, Li Yi*, arXiv, 2024. [Paper](https://dl.acm.org/doi/10.1145/3664647.3680636)
 
-93. **Towards Physically Stable Motion Generation: A New Paradigm of Human Pose Representation**. *Qiongjie Cui, Zhenyu Lou, Zhenbo Song, Xiangbo Shu*, IEEE Transactions on Circuits and Systems for Video Technology, 2024. [Paper](https://www.researchgate.net/publication/387101678_Towards_Physically_Stable_Motion_Generation_A_New_Paradigm_of_Human_Pose_Representation)
 
-94. **Generating Physically Realistic and Directable Human Motions from Multi-Modal Inputs**. *Aayam Shrestha, Pan Liu, German Ros, Kai Yuan, Alan Fern*, European Conference on Computer Vision (ECCV), 2024. [Homepage](https://idigitopia.github.io/projects/mhc/)
+
 
 95. **MagicTime: Time-lapse Video Generation Models as Metamorphic Simulators**. *Shenghai Yuan\*, Jinfa Huang\*, Yujun Shi, Yongqi Xu, Ruijie Zhu, Bin Lin, Xinhua Cheng, Li Yuan, Jiebo Luo*, arXiv, 2024. [Homepage](https://pku-yuangroup.github.io/MagicTime/) [Paper](https://arxiv.org/abs/2404.05014) [Code](https://github.com/PKU-YuanGroup/MagicTime)
 
@@ -244,6 +266,9 @@
 20. **XPBD: Position-based simulation of compliant constrained dynamics**. *Miles Macklin, Matthias Müller, Nuttapong Chentanez*, Proceedings - Motion in Games 2016: 9th International Conference on Motion in Games, MIG 2016, 2016. [Paper](https://dl.acm.org/doi/10.1145/2994258.2994272)
 
 
+
+
+
 ## Physics Simulation
 1. **Genesis: A Generative and Universal Physics Engine for Robotics and Beyond**. *Genesis Authors*, arXiv, 2024. [Homepage](https://genesis-embodied-ai.github.io/)
 
@@ -288,6 +313,9 @@
 21. **DiffXPBD : Differentiable Position-Based Simulation of Compliant Constraint Dynamics**. *Tuur Stuyck, Hsiao-yu Chen*, arXiv, 2023. [Paper](https://arxiv.org/abs/2301.01396)
 
 22. **Unified simulation of elastic rods, shells, and solids**. *Sebastian Martin, Peter Kaufmann, Mario Botsch, Eitan Grinspun, Markus Gross*, ACM SIGGRAPH 2010 Papers, SIGGRAPH 2010, 2010. [Paper](https://dl.acm.org/doi/10.1145/1833349.1778776)
+
+
+
 
 
 ## Physics Understanding (from Videos/Observations)
@@ -371,6 +399,9 @@
 39. **Scalable Differentiable Physics for Learning and Control**. *Yi-Ling Qiao, Junbang Liang, Vladlen Koltun, Ming C. Lin*, arXiv, 2020. [Paper](https://arxiv.org/abs/2007.02168)
 
 
+
+
+
 ## Physics Evaluation
 1. **Towards World Simulator: Crafting Physical Commonsense-Based Benchmark for Video Generation**. *Fanqing Meng, Jiaqi Liao, Xinyu Tan, Wenqi Shao, Quanfeng Lu, Kaipeng Zhang, Yu Cheng, Dianqi Li, Yu Qiao, Ping Luo*, arXiv, 2024. [GitHub](https://github.com/OpenGVLab/PhyGenBench)
 
@@ -402,4 +433,10 @@
 
 15. **T2I-FactualBench: Benchmarking the Factuality of Text-to-Image Models with Knowledge-Intensive Concepts**. *Ziwei Huang, Wanggui He, Quanyu Long, Yandi Wang, Haoyuan Li, Zhelun Yu, Fangxun Shu, Long Chan, Hao Jiang, Leilei Gan, Fei Wu*, arXiv, 2024. [Paper](https://arxiv.org/abs/2412.04300)
 
+<<<<<<< HEAD
 16. **ChronoMagic-Bench: A Benchmark for Metamorphic Evaluation of Text-to-Time-lapse Video Generation**. *Shenghai Yuan, Jinfa Huang, Yongqi Xu, Yaoyang Liu, Shaofeng Zhang, Yujun Shi, Ruijie Zhu, Xinhua Cheng, Jiebo Luo, Li Yuan*, NeurIPS D&B Spotlight, 2024. [Paper](https://arxiv.org/abs/2406.18522) [Github](https://github.com/PKU-YuanGroup/ChronoMagic-Bench) [Homepage](https://pku-yuangroup.github.io/ChronoMagic-Bench/)
+=======
+16. **Evaluating Text-to-Visual Generation with Image-to-Text Generation**. *Zhiqiu Lin, Deepak Pathak, Baiqi Li, Jiayao Li, Xide Xia, Graham Neubig, Pengchuan Zhang, Deva Ramanan*, European Conference on Computer Vision (ECCV), 2024. [Homepage](https://linzhiqiu.github.io/papers/vqascore/)
+
+17. **GenAI-Bench: Evaluating and Improving Compositional Text-to-Visual Generation.**. *Baiqi Li, Zhiqiu Lin, Deepak Pathak, Jiayao Li, Yixin Fei, Kewen Wu, Tiffany Ling, Xide Xia, Pengchuan Zhang, Graham Neubig, Deva Ramanan*, arXiv, 2024. [Homepage](https://linzhiqiu.github.io/papers/genai_bench/)
+>>>>>>> b4ce9e7 (Classify the modalities involved in physics-aware generation)
