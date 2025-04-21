@@ -433,10 +433,7 @@
 
 15. **T2I-FactualBench: Benchmarking the Factuality of Text-to-Image Models with Knowledge-Intensive Concepts**. *Ziwei Huang, Wanggui He, Quanyu Long, Yandi Wang, Haoyuan Li, Zhelun Yu, Fangxun Shu, Long Chan, Hao Jiang, Leilei Gan, Fei Wu*, arXiv, 2024. [Paper](https://arxiv.org/abs/2412.04300)
 
-<<<<<<< HEAD
 16. **ChronoMagic-Bench: A Benchmark for Metamorphic Evaluation of Text-to-Time-lapse Video Generation**. *Shenghai Yuan, Jinfa Huang, Yongqi Xu, Yaoyang Liu, Shaofeng Zhang, Yujun Shi, Ruijie Zhu, Xinhua Cheng, Jiebo Luo, Li Yuan*, NeurIPS D&B Spotlight, 2024. [Paper](https://arxiv.org/abs/2406.18522) [Github](https://github.com/PKU-YuanGroup/ChronoMagic-Bench) [Homepage](https://pku-yuangroup.github.io/ChronoMagic-Bench/)
-=======
 16. **Evaluating Text-to-Visual Generation with Image-to-Text Generation**. *Zhiqiu Lin, Deepak Pathak, Baiqi Li, Jiayao Li, Xide Xia, Graham Neubig, Pengchuan Zhang, Deva Ramanan*, European Conference on Computer Vision (ECCV), 2024. [Homepage](https://linzhiqiu.github.io/papers/vqascore/)
 
 17. **GenAI-Bench: Evaluating and Improving Compositional Text-to-Visual Generation.**. *Baiqi Li, Zhiqiu Lin, Deepak Pathak, Jiayao Li, Yixin Fei, Kewen Wu, Tiffany Ling, Xide Xia, Pengchuan Zhang, Graham Neubig, Deva Ramanan*, arXiv, 2024. [Homepage](https://linzhiqiu.github.io/papers/genai_bench/)
->>>>>>> b4ce9e7 (Classify the modalities involved in physics-aware generation)
