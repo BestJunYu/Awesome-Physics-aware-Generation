@@ -437,3 +437,5 @@
 16. **Evaluating Text-to-Visual Generation with Image-to-Text Generation**. *Zhiqiu Lin, Deepak Pathak, Baiqi Li, Jiayao Li, Xide Xia, Graham Neubig, Pengchuan Zhang, Deva Ramanan*, European Conference on Computer Vision (ECCV), 2024. [Homepage](https://linzhiqiu.github.io/papers/vqascore/)
 
 17. **GenAI-Bench: Evaluating and Improving Compositional Text-to-Visual Generation.**. *Baiqi Li, Zhiqiu Lin, Deepak Pathak, Jiayao Li, Yixin Fei, Kewen Wu, Tiffany Ling, Xide Xia, Pengchuan Zhang, Graham Neubig, Deva Ramanan*, arXiv, 2024. [Homepage](https://linzhiqiu.github.io/papers/genai_bench/)
+
+18. **PhyX: Does Your Model Have the "Wits" for Physical Reasoning?**. *Hui Shen, Taiqiang Wu, Qi Han, Yunta Hsieh, Jizhou Wang, Yuyue Zhang, Yuxin Cheng, Zijian Hao, Yuansheng Ni, Xin Wang, Zhongwei Wan, Kai Zhang, Wendong Xu, Jing Xiong, Ping Luo, Wenhu Chen, Chaofan Tao, Zhuoqing Mao, Ngai Wong*, arXiv, 2025. [Homepage](https://phyx-bench.github.io/)
