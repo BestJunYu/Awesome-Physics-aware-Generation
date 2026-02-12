@@ -150,6 +150,8 @@
 
 113. **Bootstrapping Physics-Grounded Video Generation through VLM-Guided Iterative Self-Refinement.**. *Yang Liu, Xilin Zhao, Peisong Wen, Siran Dai, and Qingming Huang*, arXiv, 2025. [Paper](https://arxiv.org/abs/2511.20280)
 
+114. **Over++: Generative Video Compositing for Layer Interaction Effects.** *Luchao Qi, Jiaye Wu, Jun Myeong Choi, Cary Phillips, Roni Sengupta, Dan B Goldman*, arXiv, 2025. [Homepage](https://overplusplus.github.io/)
+
 
 
 
