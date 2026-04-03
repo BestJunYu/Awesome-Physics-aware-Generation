@@ -150,6 +150,8 @@
 
 113. **Bootstrapping Physics-Grounded Video Generation through VLM-Guided Iterative Self-Refinement.**. *Yang Liu, Xilin Zhao, Peisong Wen, Siran Dai, and Qingming Huang*, arXiv, 2025. [Paper](https://arxiv.org/abs/2511.20280)
 
+114. **Inference-time Physics Alignment of Video Generative Models with Latent World Models.**. *Jianhao Yuan, Xiaofeng Zhang, Felix Friedrich, Nicolas Beltran-Velez, Melissa Hall, Reyhane Askari-Hemmat, Xiaochuang Han, Nicolas Ballas, Michal Drozdzal, and Adriana Romero-Soriano*, Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026. [Paper](https://arxiv.org/abs/2601.10553) [GitHub](https://github.com/facebookresearch/WMReward)
+
 
 
 
